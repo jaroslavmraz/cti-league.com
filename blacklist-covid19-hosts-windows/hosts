@@ -19,33 +19,150 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
+  127.0.0.1        00324il.moonfruit.com        #add by cti-league.com
+  127.0.0.1        042313929614438-dot-wetransfer-auth-file-342.appspot.com        #add by cti-league.com
+  127.0.0.1        046699400840456-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        060583754107673-dot-wetransfer-auth-file-341.appspot.com        #add by cti-league.com
   127.0.0.1        07q6zf664zv.mceco.co        #add by cti-league.com
+  127.0.0.1        122572447422481-dot-wetransfer-auth-file-341.appspot.com        #add by cti-league.com
+  127.0.0.1        133627593977191-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        139644804765798-dot-we-secure-file-sh4456.appspot.com        #add by cti-league.com
   127.0.0.1        15mincovid19test.com        #add by cti-league.com
   127.0.0.1        15mintestcoronavirus.com        #add by cti-league.com
+  127.0.0.1        176310687075500-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        18190.8wix.com        #add by cti-league.com
+  127.0.0.1        18video.ocry.com        #add by cti-league.com
   127.0.0.1        19covid-gouv12.com        #add by cti-league.com
   127.0.0.1        1stcoronatest.com        #add by cti-league.com
   127.0.0.1        1www-bankofamerica.com        #add by cti-league.com
+  127.0.0.1        20191018t003003-dot-wetransfer-auth-file7781.appspot.com        #add by cti-league.com
+  127.0.0.1        20191018t003709-dot-wetransfer-auth-file7782.appspot.com        #add by cti-league.com
+  127.0.0.1        20191018t004604-dot-wetransfer-auth-file7784.appspot.com        #add by cti-league.com
+  127.0.0.1        20191021t112135-dot-wetransfer-auth-file7783.appspot.com        #add by cti-league.com
+  127.0.0.1        20191021t124955-dot-we-secure-file-sh4455.appspot.com        #add by cti-league.com
+  127.0.0.1        20191027t231510-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        20191113t071621-dot-wetransfer-auth-file334.appspot.com        #add by cti-league.com
   127.0.0.1        2020-coronavirus.ru        #add by cti-league.com
   127.0.0.1        2020-covid-19.com        #add by cti-league.com
+  127.0.0.1        20200205143500-dot-w3r5-y7hs.appspot.com        #add by cti-league.com
+  127.0.0.1        20200205175012-dot-w3r5-y7hs.appspot.com        #add by cti-league.com
   127.0.0.1        2020logs.duckdns.org        #add by cti-league.com
+  127.0.0.1        211740640418593-dot-wetransfer-auth-file-341.appspot.com        #add by cti-league.com
+  127.0.0.1        218847280326116-dot-wetransfer-auth-file334.appspot.com        #add by cti-league.com
+  127.0.0.1        22lco.codesandbox.io        #add by cti-league.com
+  127.0.0.1        235801469362653-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        249676979008201-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        272101.com        #add by cti-league.com
+  127.0.0.1        295940895026123-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        29749.www.ldayl.com        #add by cti-league.com
+  127.0.0.1        3.mobile-billing.com        #add by cti-league.com
+  127.0.0.1        32quy.weblium.site        #add by cti-league.com
+  127.0.0.1        334643185589127-dot-wetransfer-auth-file-341.appspot.com        #add by cti-league.com
+  127.0.0.1        349351308182025-dot-wetransfer-auth-file334.appspot.com        #add by cti-league.com
+  127.0.0.1        360925443516409-dot-wetransfer-auth-file333.appspot.com        #add by cti-league.com
   127.0.0.1        360corona.com        #add by cti-league.com
+  127.0.0.1        36179.url.9xiazaiqi.com        #add by cti-league.com
+  127.0.0.1        36188.url.9xiazaiqi.com        #add by cti-league.com
+  127.0.0.1        36192.url.9xiazaiqi.com        #add by cti-league.com
+  127.0.0.1        36524.url.9xiazaiqi.com        #add by cti-league.com
+  127.0.0.1        36538.url.9xiazaiqi.com        #add by cti-league.com
+  127.0.0.1        36543.url.9xiazaiqi.com        #add by cti-league.com
+  127.0.0.1        365renewonlinesecure.com        #add by cti-league.com
+  127.0.0.1        370155612367591-dot-wetransfer-auth-file-341.appspot.com        #add by cti-league.com
+  127.0.0.1        377648215106865-dot-buc-ksa-lrf.appspot.com        #add by cti-league.com
+  127.0.0.1        37799e.com        #add by cti-league.com
+  127.0.0.1        387431298338020-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        3alerts-restrictions.com        #add by cti-league.com
+  127.0.0.1        3g.www.efilming.cn        #add by cti-league.com
+  127.0.0.1        3lqov.weblium.site        #add by cti-league.com
   127.0.0.1        3m-istanbul.com        #add by cti-league.com
+  127.0.0.1        425936905435751-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        435072835117215-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        440440688980429-dot-wetransfer-auth-file-344.appspot.com        #add by cti-league.com
+  127.0.0.1        447324751332882-dot-wetransfer-auth-file333.appspot.com        #add by cti-league.com
   127.0.0.1        464004iiq76.waxcapital.net        #add by cti-league.com
+  127.0.0.1        466702804078440-dot-wetransfer-auth-file-344.appspot.com        #add by cti-league.com
+  127.0.0.1        467839030464033-dot-wetransfer-auth-file-342.appspot.com        #add by cti-league.com
+  127.0.0.1        475683857196233-dot-wetransfer-auth-file-342.appspot.com        #add by cti-league.com
+  127.0.0.1        528566405065056-dot-jfh-dgb-keg.appspot.com        #add by cti-league.com
+  127.0.0.1        582971756703458-dot-wetransfer-auth-file-344.appspot.com        #add by cti-league.com
+  127.0.0.1        589386506857472-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        597367667262946-dot-ajd-wgx-btg.appspot.com        #add by cti-league.com
+  127.0.0.1        620473048756603-dot-wetransfer-auth-file-341.appspot.com        #add by cti-league.com
+  127.0.0.1        636572335252971-dot-wetransfer-auth-file334.appspot.com        #add by cti-league.com
+  127.0.0.1        647348419173324-dot-wetransfer-auth-file-341.appspot.com        #add by cti-league.com
+  127.0.0.1        660729052432344-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        687271310062693-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        70131.dyamm.com        #add by cti-league.com
+  127.0.0.1        722089065999283-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        726704030228633-dot-wetransfer-auth-file-341.appspot.com        #add by cti-league.com
+  127.0.0.1        727890186120864-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        72a4dc9c42f7.godaddysites.com        #add by cti-league.com
+  127.0.0.1        735846009328314-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        755584251719535-dot-wetransfer-auth-file-341.appspot.com        #add by cti-league.com
+  127.0.0.1        783918679436576-dot-hvd-skf-wcf.appspot.com        #add by cti-league.com
+  127.0.0.1        788062870996883-dot-wetransfer-auth-file-341.appspot.com        #add by cti-league.com
+  127.0.0.1        792749976985480-dot-wetransfer-auth-file-344.appspot.com        #add by cti-league.com
+  127.0.0.1        81047.psdzy.com        #add by cti-league.com
+  127.0.0.1        819979454625651-dot-wetransfer-auth-file331.appspot.com        #add by cti-league.com
+  127.0.0.1        81cf7e.netlify.com        #add by cti-league.com
+  127.0.0.1        82920935978390920191003t225454-dot-wetransfer-auth-file7781.appspot.com        #add by cti-league.com
+  127.0.0.1        876358540441643-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        895837842793099-dot-jfh-dgb-keg.appspot.com        #add by cti-league.com
+  127.0.0.1        896507147519842-dot-wetransfer-auth-file-344.appspot.com        #add by cti-league.com
+  127.0.0.1        896713837444490-dot-wetransfer-auth-file-342.appspot.com        #add by cti-league.com
+  127.0.0.1        8r9x.eyoh9.dalians.cn        #add by cti-league.com
+  127.0.0.1        91362.r2dd.com        #add by cti-league.com
+  127.0.0.1        926925673861627-dot-wetransfer-auth-file-343.appspot.com        #add by cti-league.com
+  127.0.0.1        93280.8wix.com        #add by cti-league.com
+  127.0.0.1        934178783951476-dot-wetransfer-auth-file-341.appspot.com        #add by cti-league.com
+  127.0.0.1        978671949685378-dot-wetransfer-auth-file-344.appspot.com        #add by cti-league.com
+  127.0.0.1        a.lululemon.com.yuvanesh.co.in        #add by cti-league.com
   127.0.0.1        a1team-covid19.com        #add by cti-league.com
+  127.0.0.1        a70892jf.beget.tech        #add by cti-league.com
+  127.0.0.1        aaaaa.the4orce.net        #add by cti-league.com
+  127.0.0.1        abadfils.org        #add by cti-league.com
+  127.0.0.1        abadocs.com        #add by cti-league.com
+  127.0.0.1        abadocs.org        #add by cti-league.com
   127.0.0.1        abccoronavirus.com        #add by cti-league.com
   127.0.0.1        abncoronaveiligomgeving.live        #add by cti-league.com
   127.0.0.1        abyezapharmaceuticals.com        #add by cti-league.com
   127.0.0.1        academydea.com        #add by cti-league.com
   127.0.0.1        acccorona.com        #add by cti-league.com
+  127.0.0.1        accesosesionremotefb.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        access-d.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        access.banque-atlantique.org        #add by cti-league.com
   127.0.0.1        account-id.apple-support.connect-get.verify-sessionid.new-gen.siapaygmausamayusicung.xyz        #add by cti-league.com
+  127.0.0.1        account-konfirmation.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        account-new.ddns.net        #add by cti-league.com
+  127.0.0.1        account.snapchat.com.days-sa.com        #add by cti-league.com
   127.0.0.1        accounts.google.com.secure-2.pw        #add by cti-league.com
   127.0.0.1        accounts.google.com.secure001.pw        #add by cti-league.com
   127.0.0.1        accounts.google.com.secure005.pw        #add by cti-league.com
+  127.0.0.1        accounts.instagram.com.days-sa.com        #add by cti-league.com
+  127.0.0.1        accounts.newsokulog.com        #add by cti-league.com
+  127.0.0.1        accountsnat-west.com        #add by cti-league.com
+  127.0.0.1        accountvk.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        acebook.cba.pl        #add by cti-league.com
+  127.0.0.1        acessotaucard.com        #add by cti-league.com
   127.0.0.1        actionagainstcovid19.com        #add by cti-league.com
+  127.0.0.1        actualiza-banruralgt.com        #add by cti-league.com
+  127.0.0.1        actualizacionpreferente1.com        #add by cti-league.com
   127.0.0.1        adairguthriecountycovid.org        #add by cti-league.com
+  127.0.0.1        adam57-stewart-hsvony.admear.com        #add by cti-league.com
   127.0.0.1        adaminpomes.com        #add by cti-league.com
+  127.0.0.1        adhd.richysgram.website        #add by cti-league.com
+  127.0.0.1        adl.aircus.com        #add by cti-league.com
+  127.0.0.1        adlatina.com.bo        #add by cti-league.com
+  127.0.0.1        admininternetsecuritysupport.weebly.com        #add by cti-league.com
+  127.0.0.1        admininternetsupport.weebly.com        #add by cti-league.com
+  127.0.0.1        adminverificationattmailservices.weebly.com        #add by cti-league.com
+  127.0.0.1        adobe-net.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        affectionate-northcutt-f7f341.netlify.com        #add by cti-league.com
   127.0.0.1        aftercovid.com        #add by cti-league.com
   127.0.0.1        againstcovid-19.com        #add by cti-league.com
+  127.0.0.1        aggiornamneto-web-psd2.com        #add by cti-league.com
+  127.0.0.1        agrobium.com        #add by cti-league.com
   127.0.0.1        ahf4ycvea439tt9rq.site        #add by cti-league.com
   127.0.0.1        aibertsons.com        #add by cti-league.com
   127.0.0.1        aicovid19.com        #add by cti-league.com
@@ -53,12 +170,29 @@
   127.0.0.1        aircovid19virus.com        #add by cti-league.com
   127.0.0.1        ajpharmaceutical.com        #add by cti-league.com
   127.0.0.1        akzentar.com        #add by cti-league.com
+  127.0.0.1        alerba-nlinea.000webhostapp.com        #add by cti-league.com
   127.0.0.1        alertacoronavirus.info        #add by cti-league.com
   127.0.0.1        alili2020.ddns.net        #add by cti-league.com
   127.0.0.1        all200.mireene.com        #add by cti-league.com
+  127.0.0.1        allemaurace.kissr.com        #add by cti-league.com
+  127.0.0.1        alliancepayement.com        #add by cti-league.com
+  127.0.0.1        allo-feel.kissr.com        #add by cti-league.com
+  127.0.0.1        allotasse.kissr.com        #add by cti-league.com
   127.0.0.1        alphacoronavirusvaccine.com        #add by cti-league.com
+  127.0.0.1        alternatifklinik.com        #add by cti-league.com
+  127.0.0.1        amarzonjpktadmincay.com        #add by cti-league.com
+  127.0.0.1        amazon.co.jp.5g69r4d5j3k4g7k8l95r4h5k6o9t8g4j5lu6eg5e5y5u4i5p6u4t5u6iu5y4.monster        #add by cti-league.com
+  127.0.0.1        amazon.services-now.info        #add by cti-league.com
+  127.0.0.1        amazon.usexpress.com.vn        #add by cti-league.com
+  127.0.0.1        americexpress-verifyzone.web5143.cweb02.gamingweb.de        #add by cti-league.com
+  127.0.0.1        amidabuli.com        #add by cti-league.com
+  127.0.0.1        amz.1949rd.com        #add by cti-league.com
+  127.0.0.1        ananitme1977.blogspot.com        #add by cti-league.com
+  127.0.0.1        andreev2552.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        anhchieumay.000webhostapp.com        #add by cti-league.com
   127.0.0.1        annaasiansaftymedicalproducts.com        #add by cti-league.com
   127.0.0.1        annaasiatrading.com        #add by cti-league.com
+  127.0.0.1        annanninc.ms-ann.com        #add by cti-league.com
   127.0.0.1        ansell-be.com        #add by cti-league.com
   127.0.0.1        anti-coronavirus.re        #add by cti-league.com
   127.0.0.1        anti-covid19.kz        #add by cti-league.com
@@ -73,33 +207,71 @@
   127.0.0.1        anticovid19supply.com        #add by cti-league.com
   127.0.0.1        anticovids19.com        #add by cti-league.com
   127.0.0.1        antivirus-covid19.site        #add by cti-league.com
+  127.0.0.1        app30hswepmobile.wpdevcloud.com        #add by cti-league.com
   127.0.0.1        appannie.club        #add by cti-league.com
   127.0.0.1        appcoronavirus.cl        #add by cti-league.com
+  127.0.0.1        apple-verivication.cheapelectricnow.net        #add by cti-league.com
+  127.0.0.1        apple.com.belgie.support        #add by cti-league.com
+  127.0.0.1        apple.com.br-help.us        #add by cti-league.com
+  127.0.0.1        apple.com.findmy-iphone.info        #add by cti-league.com
   127.0.0.1        apple.id.update-page.signin-service-support-cgi-bin-login-webscr.cmd-security-directory.locale.loginx-1e008e44a05ba05423b.oreidobocadillo.com        #add by cti-league.com
+  127.0.0.1        appleid.apple.com-sa.pm        #add by cti-league.com
   127.0.0.1        appleid.apple.com.thmmygcah5phvc8bi78pihadh4iezdwtgx0z.tk.thmmygcah5phvc8bi78pihadh4iezdwtgx0z.tk        #add by cti-league.com
   127.0.0.1        appleid.apple.secure.com.thmmygcah5phvc8bi78pihadh4iezdwtgx0z.tk.thmmygcah5phvc8bi78pihadh4iezdwtgx0z.tk        #add by cti-league.com
+  127.0.0.1        apponlinehelp.info        #add by cti-league.com
   127.0.0.1        appple.com-id.service.manager.service-update-full-access-now-secure.fast-manager-id.798465798465794.sonexzircon.com        #add by cti-league.com
   127.0.0.1        approvedrefund-covid-19.com        #add by cti-league.com
   127.0.0.1        arealitylifestyle.com        #add by cti-league.com
+  127.0.0.1        ars-basvuru-iadeformu-edevlet.com        #add by cti-league.com
+  127.0.0.1        as43dsawqa.appspot.com        #add by cti-league.com
+  127.0.0.1        asicstanio.pl        #add by cti-league.com
   127.0.0.1        askcorona.com        #add by cti-league.com
+  127.0.0.1        atendeitau.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        attlogin-bellsouth.weebly.com        #add by cti-league.com
   127.0.0.1        attorneyscovid19.com        #add by cti-league.com
+  127.0.0.1        atualizacao-cadastral-itau.com        #add by cti-league.com
+  127.0.0.1        atualizajaitau.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        auth20-outlook.web.app        #add by cti-league.com
+  127.0.0.1        authenticateinsta.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        authflow-account-support-case-47862.blogspot.be        #add by cti-league.com
   127.0.0.1        autocarsalonmobil.com        #add by cti-league.com
   127.0.0.1        autodiscover.bestcoronavirusprotect.tk        #add by cti-league.com
   127.0.0.1        autodiscover.corona-pharm.com        #add by cti-league.com
   127.0.0.1        autodiscover.coronavirus-maps.com        #add by cti-league.com
   127.0.0.1        autodiscover.coronavirus19.cl        #add by cti-league.com
   127.0.0.1        autodiscover.coronaviruspreventionmasks.com        #add by cti-league.com
+  127.0.0.1        autodiscover.sandrsecurity.com        #add by cti-league.com
   127.0.0.1        autodiscover.securitycovid19info.com        #add by cti-league.com
+  127.0.0.1        autorizada-desbloqueio.com        #add by cti-league.com
   127.0.0.1        auxilio-corona.info        #add by cti-league.com
   127.0.0.1        avast.com.pt.renovar.app-loginjps.cf        #add by cti-league.com
   127.0.0.1        avingroupllc.com        #add by cti-league.com
+  127.0.0.1        axdfxdzfdresdf.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        ayo-join-grup-bokep-whatshap-18hot-invit-5k.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        ayojoingrup.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        ayokambilskinpubgnyagratis30.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        ayomasukgrupbokepwork.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        ayoyangmaujoingrup18.000webhostapp.com        #add by cti-league.com
   127.0.0.1        ayyappantat.com        #add by cti-league.com
   127.0.0.1        azpharmacie.com        #add by cti-league.com
+  127.0.0.1        b96202rc.beget.tech        #add by cti-league.com
   127.0.0.1        babystophouse.com        #add by cti-league.com
+  127.0.0.1        badges-instagramservices.subhash.edu.pk        #add by cti-league.com
+  127.0.0.1        bankofamerica.com.cliendid493985845.anjoshotel.com        #add by cti-league.com
+  127.0.0.1        bankofamericaonlinesignin.elevator-love.com        #add by cti-league.com
   127.0.0.1        baohiemcovid-19.info        #add by cti-league.com
   127.0.0.1        baohiemcovid19.com        #add by cti-league.com
+  127.0.0.1        battlercup.online        #add by cti-league.com
   127.0.0.1        baumerteam.com        #add by cti-league.com
   127.0.0.1        baumerteam.org        #add by cti-league.com
+  127.0.0.1        bb.agencia-digitalapp.com        #add by cti-league.com
+  127.0.0.1        bb.appclientebb.info        #add by cti-league.com
+  127.0.0.1        bcp.futbolfinanciero.com.pe        #add by cti-league.com
+  127.0.0.1        bcpzonasegurabeta-viabcp-com.sinaimed.com        #add by cti-league.com
+  127.0.0.1        bcpzonasegurabeta.com        #add by cti-league.com
+  127.0.0.1        bcpzonasegurabeta.viabcp.com.activar.operaciones.ag-worx.co.nz        #add by cti-league.com
+  127.0.0.1        bcpzonasegurabeta.viabcp.com.sheffy.co        #add by cti-league.com
+  127.0.0.1        beasiswagroup1.000webhostapp.com        #add by cti-league.com
   127.0.0.1        beat-corona.com        #add by cti-league.com
   127.0.0.1        beatcovid19together.com        #add by cti-league.com
   127.0.0.1        beatingcorona.com        #add by cti-league.com
@@ -107,6 +279,8 @@
   127.0.0.1        beforecovid.com        #add by cti-league.com
   127.0.0.1        behindcorona.com        #add by cti-league.com
   127.0.0.1        bell-covid19.com        #add by cti-league.com
+  127.0.0.1        beneficios-itau.ml        #add by cti-league.com
+  127.0.0.1        berbagi-video-mantapmantap.000webhostapp.com        #add by cti-league.com
   127.0.0.1        besafefromcovid.xyz        #add by cti-league.com
   127.0.0.1        bestcorona.com        #add by cti-league.com
   127.0.0.1        bestcoronavirusprotect.tk        #add by cti-league.com
@@ -117,66 +291,157 @@
   127.0.0.1        betcovid.com        #add by cti-league.com
   127.0.0.1        bgvfr.coronavirusaware.xyz        #add by cti-league.com
   127.0.0.1        bidencoronavirus.com        #add by cti-league.com
+  127.0.0.1        billing.paypal-activity.net        #add by cti-league.com
+  127.0.0.1        bioginmiawit1987.blogspot.be        #add by cti-league.com
   127.0.0.1        bitcovid-3x.cc        #add by cti-league.com
+  127.0.0.1        bkw7.due.dalians.cn        #add by cti-league.com
   127.0.0.1        blog.coronavirus-live-updates.com        #add by cti-league.com
   127.0.0.1        bmy.hqoohoa.com        #add by cti-league.com
+  127.0.0.1        bnbhzio.vteexcx.com        #add by cti-league.com
+  127.0.0.1        bnvtfhdfsasd.ug        #add by cti-league.com
+  127.0.0.1        bo934pesdisz.appspot.com        #add by cti-league.com
+  127.0.0.1        bokep-japanes-grup.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        bokep-jepanghot21.v-25.com        #add by cti-league.com
+  127.0.0.1        bokephotdijamin.crotsz.com        #add by cti-league.com
+  127.0.0.1        bokepspecialcovid19.event-indo.com        #add by cti-league.com
+  127.0.0.1        bokepviralss22.joins5.com        #add by cti-league.com
+  127.0.0.1        bokepwa18hotgrup.onfyis.com        #add by cti-league.com
+  127.0.0.1        bokepwaindo.get-free.net        #add by cti-league.com
   127.0.0.1        bookdocument.ir        #add by cti-league.com
+  127.0.0.1        boomgiveaway.gq        #add by cti-league.com
   127.0.0.1        botduke1.ug        #add by cti-league.com
   127.0.0.1        botnew.ug        #add by cti-league.com
   127.0.0.1        bralibuda.com        #add by cti-league.com
   127.0.0.1        brands.newst.dnsabr.com        #add by cti-league.com
+  127.0.0.1        brandyou-coaching.in        #add by cti-league.com
   127.0.0.1        braskems.com        #add by cti-league.com
+  127.0.0.1        brassiest-results.000webhostapp.com        #add by cti-league.com
   127.0.0.1        brightparcel.com        #add by cti-league.com
   127.0.0.1        brinchil.xyz        #add by cti-league.com
   127.0.0.1        brochemed.com        #add by cti-league.com
+  127.0.0.1        brokenservices.xyz        #add by cti-league.com
+  127.0.0.1        bronseltiren1971.blogspot.be        #add by cti-league.com
   127.0.0.1        brooklyncoronavirus.net        #add by cti-league.com
+  127.0.0.1        brubawcontu1980.blogspot.be        #add by cti-league.com
   127.0.0.1        bsmedicalsag.com        #add by cti-league.com
+  127.0.0.1        btc-ali.com        #add by cti-league.com
   127.0.0.1        bur.vueleslie.com        #add by cti-league.com
   127.0.0.1        business-facebook-covid19.com        #add by cti-league.com
+  127.0.0.1        business-manager.page-fb-ads338u37e232u4t65.com        #add by cti-league.com
+  127.0.0.1        business-manager.page-fb-ads3456u65e435u4t44.com        #add by cti-league.com
+  127.0.0.1        business-manager.page-fb-ads6435u65e3545u4t43.com        #add by cti-league.com
   127.0.0.1        business-resource-facebook-covid-19.com        #add by cti-league.com
+  127.0.0.1        businesssupport.club        #add by cti-league.com
+  127.0.0.1        bussinespage20.my.id        #add by cti-league.com
   127.0.0.1        bustcovid19.com        #add by cti-league.com
+  127.0.0.1        butter-spiced-judge.glitch.me        #add by cti-league.com
   127.0.0.1        buycoronavirusfacemask.com        #add by cti-league.com
   127.0.0.1        buycoronavirusfacemasks.com        #add by cti-league.com
   127.0.0.1        buzzcorona.com        #add by cti-league.com
   127.0.0.1        bvbaalphaexport.com        #add by cti-league.com
+  127.0.0.1        bvcvcvvcvbxbvmsglobal.yolasite.com        #add by cti-league.com
   127.0.0.1        byebyecoronavirus.com        #add by cti-league.com
   127.0.0.1        byebyecovid.com        #add by cti-league.com
   127.0.0.1        c0vid19-map-infection.online        #add by cti-league.com
+  127.0.0.1        c34.live        #add by cti-league.com
   127.0.0.1        cabusinessrecoveryaftercoronavirus.com        #add by cti-league.com
+  127.0.0.1        caixa.gerenciadorapp.org        #add by cti-league.com
+  127.0.0.1        caixaaccounta.kehrer-modehaus.de        #add by cti-league.com
   127.0.0.1        canadacovid-19.ca        #add by cti-league.com
+  127.0.0.1        canbertcongco1972.blogspot.be        #add by cti-league.com
+  127.0.0.1        cancela.netlify.com        #add by cti-league.com
+  127.0.0.1        cancelamento.itaucard.webstore-amedigital.com        #add by cti-league.com
+  127.0.0.1        canceloperation.com        #add by cti-league.com
+  127.0.0.1        caralarmsystemsupply.net        #add by cti-league.com
   127.0.0.1        caretocorona.xyz        #add by cti-league.com
+  127.0.0.1        carrier-telus.info        #add by cti-league.com
+  127.0.0.1        cas325fadzx.appspot.com        #add by cti-league.com
   127.0.0.1        casecorona.fun        #add by cti-league.com
   127.0.0.1        causajustacoronavirus.com        #add by cti-league.com
+  127.0.0.1        cccvbtedfhjloighjghhbvn.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        ccsv9psos.appspot.com        #add by cti-league.com
+  127.0.0.1        ccx66.com        #add by cti-league.com
   127.0.0.1        cdc-coronavirus.com        #add by cti-league.com
   127.0.0.1        cdc-gov.org        #add by cti-league.com
   127.0.0.1        cdchealth.org        #add by cti-league.com
   127.0.0.1        cdn.whatcoronavirus.com        #add by cti-league.com
+  127.0.0.1        cdn01-virall-ojek.ezua.com        #add by cti-league.com
+  127.0.0.1        cdn010-whatsapp.69.ocry.com        #add by cti-league.com
+  127.0.0.1        cdnhot-whatsapp.69.ocry.com        #add by cti-league.com
   127.0.0.1        ceriterafightcovid19.com        #add by cti-league.com
+  127.0.0.1        cf1p.nvshengjie.cn        #add by cti-league.com
   127.0.0.1        chamcompanyltd.com        #add by cti-league.com
   127.0.0.1        chase-covid19s.com        #add by cti-league.com
+  127.0.0.1        chase007.serveirc.com        #add by cti-league.com
   127.0.0.1        chase7-covid.com        #add by cti-league.com
   127.0.0.1        chasecorona.com        #add by cti-league.com
   127.0.0.1        chasecovid19s.com        #add by cti-league.com
   127.0.0.1        chasecovid19t.com        #add by cti-league.com
   127.0.0.1        chasecovid19v.com        #add by cti-league.com
+  127.0.0.1        chasegroups.net        #add by cti-league.com
+  127.0.0.1        chat-whatsap.x24hr.com        #add by cti-league.com
+  127.0.0.1        chat-whatsapp-grub.jetos.com        #add by cti-league.com
+  127.0.0.1        chat-whatsapp-grub.xxuz.com        #add by cti-league.com
+  127.0.0.1        chat-whatsapp-grub.zzux.com        #add by cti-league.com
+  127.0.0.1        chat-whatsapp.freetcp.com        #add by cti-league.com
+  127.0.0.1        chat-whatsapp.hol50.com        #add by cti-league.com
+  127.0.0.1        chat-whatsapp.ocry2020.gq        #add by cti-league.com
+  127.0.0.1        chat-whatsapp.vizvaz.com        #add by cti-league.com
+  127.0.0.1        chat-whatsapp01.ocry2020.tk        #add by cti-league.com
+  127.0.0.1        chat-whatsapp21.4dq.com        #add by cti-league.com
+  127.0.0.1        chat-whatsappctz.hol8.net        #add by cti-league.com
+  127.0.0.1        chat-whatsappsek.hol7.com        #add by cti-league.com
+  127.0.0.1        chat.whatsapp.com-i8fstbfd4irhviasosfxy.00.itsaol.com        #add by cti-league.com
+  127.0.0.1        chat.whatsapp.grup.hd.ocry.com        #add by cti-league.com
+  127.0.0.1        chatcrott.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        chatgrupbokepsex.deafult.com        #add by cti-league.com
+  127.0.0.1        chatwhatsaapbokep2020.olls.shop        #add by cti-league.com
+  127.0.0.1        chatwhatsapp2.giize.com        #add by cti-league.com
+  127.0.0.1        chatwhtshapp2828.ixt.ocry.com        #add by cti-league.com
+  127.0.0.1        che-3200165298.wikyzone.com        #add by cti-league.com
+  127.0.0.1        che-4983212039.wikyzone.com        #add by cti-league.com
   127.0.0.1        cheapcorona.com        #add by cti-league.com
   127.0.0.1        cheapfacemasks.com        #add by cti-league.com
   127.0.0.1        childcarecorona.com        #add by cti-league.com
   127.0.0.1        chloroquine-coronavirus.com        #add by cti-league.com
   127.0.0.1        chloroquine-cureforcoronavirus.com        #add by cti-league.com
+  127.0.0.1        civso0qas.appspot.com        #add by cti-league.com
+  127.0.0.1        cka1.yf5b.dalianl.cn        #add by cti-league.com
   127.0.0.1        clearcovid19virus.com        #add by cti-league.com
+  127.0.0.1        clever-ibis.cloudvent.net        #add by cti-league.com
+  127.0.0.1        cleverhands.com        #add by cti-league.com
+  127.0.0.1        cliente.appssms.com        #add by cti-league.com
   127.0.0.1        clinicalibredecoronavirus.com        #add by cti-league.com
+  127.0.0.1        clkyvzqh.goruli.com        #add by cti-league.com
   127.0.0.1        cloud-security.ggpht.ml        #add by cti-league.com
+  127.0.0.1        cms3.kokdag.com        #add by cti-league.com
+  127.0.0.1        cn.479mbx.com        #add by cti-league.com
   127.0.0.1        com-2018-nov-09-uk-bond-provider.business        #add by cti-league.com
   127.0.0.1        com-cgi-bin.info        #add by cti-league.com
+  127.0.0.1        com-che-3200165298.wikyzone.com        #add by cti-league.com
   127.0.0.1        combatcorona.com        #add by cti-league.com
+  127.0.0.1        commemorative-march.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        commentfbtomashtpp.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        compartamos.identidad.com        #add by cti-league.com
   127.0.0.1        compdate.my03.com        #add by cti-league.com
+  127.0.0.1        competent-borg-190248.netlify.com        #add by cti-league.com
+  127.0.0.1        comunidadponiente.com        #add by cti-league.com
+  127.0.0.1        confident-hoover-947da2.netlify.com        #add by cti-league.com
+  127.0.0.1        confirm-migrate-me-yahoo-1.webredirect.org        #add by cti-league.com
+  127.0.0.1        confirmdados.com        #add by cti-league.com
   127.0.0.1        confirme-fr-enligne.com        #add by cti-league.com
+  127.0.0.1        confirmprofileaccount.com        #add by cti-league.com
+  127.0.0.1        connect-auone.com        #add by cti-league.com
+  127.0.0.1        connetwellsfago-001-site1.itempurl.com        #add by cti-league.com
   127.0.0.1        connexion-intbv.com        #add by cti-league.com
   127.0.0.1        connexioninternational-bv.com        #add by cti-league.com
   127.0.0.1        conorgault.com        #add by cti-league.com
   127.0.0.1        contra-coronavirus.com        #add by cti-league.com
   127.0.0.1        contracovid19.josefhinach.com        #add by cti-league.com
+  127.0.0.1        contrarious-intakes.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        control2-8dd4d.firebaseapp.com        #add by cti-league.com
+  127.0.0.1        conversepolska.com        #add by cti-league.com
+  127.0.0.1        coracenta.kissr.com        #add by cti-league.com
   127.0.0.1        corona-antivirus.com        #add by cti-league.com
   127.0.0.1        corona-apps.com        #add by cti-league.com
   127.0.0.1        corona-armored.com        #add by cti-league.com
@@ -224,6 +489,7 @@
   127.0.0.1        corona-virussafetymasks.com        #add by cti-league.com
   127.0.0.1        corona.kpwashingtonresearch.org        #add by cti-league.com
   127.0.0.1        corona19.today        #add by cti-league.com
+  127.0.0.1        corona19covid.000webhostapp.com        #add by cti-league.com
   127.0.0.1        corona19labtesting.com        #add by cti-league.com
   127.0.0.1        coronaa.club        #add by cti-league.com
   127.0.0.1        coronabit.cc        #add by cti-league.com
@@ -359,6 +625,7 @@
   127.0.0.1        coronavirusly.com        #add by cti-league.com
   127.0.0.1        coronavirusmedicalkit.com        #add by cti-league.com
   127.0.0.1        coronavirusmedicine.online        #add by cti-league.com
+  127.0.0.1        coronavirusmessage.com        #add by cti-league.com
   127.0.0.1        coronavirusmusic.com        #add by cti-league.com
   127.0.0.1        coronavirusnaturaldefense.com        #add by cti-league.com
   127.0.0.1        coronavirusnewsfirst.xyz        #add by cti-league.com
@@ -415,7 +682,9 @@
   127.0.0.1        corp9.site        #add by cti-league.com
   127.0.0.1        cov-19.payment2020.estrodev.com        #add by cti-league.com
   127.0.0.1        cov19-payment.estrodev.com        #add by cti-league.com
+  127.0.0.1        coveome.augerqiscience.top        #add by cti-league.com
   127.0.0.1        covid-19-business-continuity-epic-uk-limited.azurewebsites.net        #add by cti-league.com
+  127.0.0.1        covid-19-canada.com        #add by cti-league.com
   127.0.0.1        covid-19-global.com        #add by cti-league.com
   127.0.0.1        covid-19-gov.claims        #add by cti-league.com
   127.0.0.1        covid-19-gov.com        #add by cti-league.com
@@ -462,6 +731,7 @@
   127.0.0.1        covid19-guidelines.online        #add by cti-league.com
   127.0.0.1        covid19-info.online        #add by cti-league.com
   127.0.0.1        covid19-koronavirus.ru        #add by cti-league.com
+  127.0.0.1        covid19-latest-updates.afyfr.com        #add by cti-league.com
   127.0.0.1        covid19-osaka.info        #add by cti-league.com
   127.0.0.1        covid19-pandemic.org        #add by cti-league.com
   127.0.0.1        covid19-realtime.com        #add by cti-league.com
@@ -469,6 +739,7 @@
   127.0.0.1        covid19-summit.email        #add by cti-league.com
   127.0.0.1        covid19-symptoms.com        #add by cti-league.com
   127.0.0.1        covid19-testing-us.com        #add by cti-league.com
+  127.0.0.1        covid19-vat.rf.gd        #add by cti-league.com
   127.0.0.1        covid19.almairastudio.com        #add by cti-league.com
   127.0.0.1        covid19.cheap        #add by cti-league.com
   127.0.0.1        covid19.minsky.cc        #add by cti-league.com
@@ -522,6 +793,7 @@
   127.0.0.1        covidbestpractice.com        #add by cti-league.com
   127.0.0.1        covidbetaalpas.nl        #add by cti-league.com
   127.0.0.1        covidcookbook.com        #add by cti-league.com
+  127.0.0.1        covideuso.club        #add by cti-league.com
   127.0.0.1        covidflix15.xyz        #add by cti-league.com
   127.0.0.1        covidflix19.xyz        #add by cti-league.com
   127.0.0.1        covidflix2.info        #add by cti-league.com
@@ -541,6 +813,9 @@
   127.0.0.1        covidrecovery.computer        #add by cti-league.com
   127.0.0.1        covidrecovery.team        #add by cti-league.com
   127.0.0.1        covidtest.cc        #add by cti-league.com
+  127.0.0.1        cox.comcastyix.com        #add by cti-league.com
+  127.0.0.1        coxadminhometeam.moonfruit.com        #add by cti-league.com
+  127.0.0.1        cp.marqueeroofing.ca        #add by cti-league.com
   127.0.0.1        cpanel.bestcoronavirusprotect.tk        #add by cti-league.com
   127.0.0.1        cpanel.corona-virus-map.org        #add by cti-league.com
   127.0.0.1        cpanel.coronafundme.com        #add by cti-league.com
@@ -585,48 +860,110 @@
   127.0.0.1        cpcontacts.impots-covid19.com        #add by cti-league.com
   127.0.0.1        cpcontacts.mapadocoronavirus.tk        #add by cti-league.com
   127.0.0.1        cpcontacts.runescape-covid19.info        #add by cti-league.com
+  127.0.0.1        cpuq.gucac.com        #add by cti-league.com
+  127.0.0.1        craemrcovid19.com        #add by cti-league.com
+  127.0.0.1        crancbsu.com        #add by cti-league.com
+  127.0.0.1        crazy-help.com        #add by cti-league.com
   127.0.0.1        crisiscovid19.com        #add by cti-league.com
   127.0.0.1        crphone.mireene.com        #add by cti-league.com
   127.0.0.1        crscovid19.com        #add by cti-league.com
+  127.0.0.1        cs-analyzer.tk        #add by cti-league.com
   127.0.0.1        cscic.fundashonaltonpaas.org        #add by cti-league.com
+  127.0.0.1        csgopan.com        #add by cti-league.com
+  127.0.0.1        csgorole.ru.com        #add by cti-league.com
   127.0.0.1        cust-support-check.coronaviruschina.ml        #add by cti-league.com
+  127.0.0.1        cvsd45asz.appspot.com        #add by cti-league.com
+  127.0.0.1        cvzo.nvshengjie.cn        #add by cti-league.com
+  127.0.0.1        cxzas0osa.appspot.com        #add by cti-league.com
   127.0.0.1        daguia.com.mx        #add by cti-league.com
   127.0.0.1        dahlinperingab.uk        #add by cti-league.com
+  127.0.0.1        data456.000webhostapp.com        #add by cti-league.com
   127.0.0.1        datacovid.beritasepuluh.net        #add by cti-league.com
   127.0.0.1        datalinksol.com        #add by cti-league.com
   127.0.0.1        dating4free.us        #add by cti-league.com
   127.0.0.1        dating4sex.us        #add by cti-league.com
+  127.0.0.1        db1.www.efilming.cn        #add by cti-league.com
   127.0.0.1        deadlycovid19.com        #add by cti-league.com
+  127.0.0.1        demo.mkt.exoret.com        #add by cti-league.com
+  127.0.0.1        deneyimli.blogcu.com        #add by cti-league.com
   127.0.0.1        dentistbydemand.com        #add by cti-league.com
+  127.0.0.1        desafio-parchis.000webhostapp.com        #add by cti-league.com
   127.0.0.1        desinfectantes-coronavirus.com        #add by cti-league.com
   127.0.0.1        desinfectercoronavirus.com        #add by cti-league.com
   127.0.0.1        detailsdepartment.up.stayhome-covid19.sherrielong.com        #add by cti-league.com
+  127.0.0.1        dev.mkt.exoret.com        #add by cti-league.com
   127.0.0.1        dewakartu.info        #add by cti-league.com
   127.0.0.1        dewarejeki.info        #add by cti-league.com
+  127.0.0.1        diiw.dermals.org        #add by cti-league.com
+  127.0.0.1        discover.accountcenter.se-qbb.com        #add by cti-league.com
   127.0.0.1        disinfectioncoronavirus.com        #add by cti-league.com
   127.0.0.1        distributionpointgroupllc.com        #add by cti-league.com
+  127.0.0.1        distrokid.email        #add by cti-league.com
+  127.0.0.1        djoingrup-20.zzux.com        #add by cti-league.com
+  127.0.0.1        dn.dyamm.com        #add by cti-league.com
+  127.0.0.1        doapzoa0sa.frb.io        #add by cti-league.com
+  127.0.0.1        doc.google.share.pressurecookerindia.com        #add by cti-league.com
+  127.0.0.1        docfiles.t0as.com        #add by cti-league.com
+  127.0.0.1        docusignemail1com1login1dropbox9com64bae2a51a5b3dropbox7com.mybabydeck.com        #add by cti-league.com
+  127.0.0.1        docusignsecure1com1login1dropbox9com64bae2a51a5b3dropbox7com.mybabydeck.com        #add by cti-league.com
   127.0.0.1        dogogiaphat.com        #add by cti-league.com
+  127.0.0.1        domain.www.usacocojp.chifanavoid.top        #add by cti-league.com
+  127.0.0.1        domain.www.usapubliclibraryjp.chifanavoid.top        #add by cti-league.com
   127.0.0.1        donaldtrumphascoronavirus.com        #add by cti-league.com
   127.0.0.1        dopconverion.ru        #add by cti-league.com
+  127.0.0.1        download.sada-group.com        #add by cti-league.com
   127.0.0.1        drfvh.coronavirusaware.xyz        #add by cti-league.com
   127.0.0.1        drhuzaifa.com        #add by cti-league.com
+  127.0.0.1        dropbox.co.uk-online-facture.enquiry-id-918412.net        #add by cti-league.com
+  127.0.0.1        dropbox.com-payment-invoice-id-379340.tilexhome.com        #add by cti-league.com
+  127.0.0.1        dropbox.lilyskitchen.skyfencenet.com        #add by cti-league.com
+  127.0.0.1        dropbox.progentrix.skyfencenet.com        #add by cti-league.com
+  127.0.0.1        drrykegeerdhamer.com        #add by cti-league.com
+  127.0.0.1        dungy-restraint.000webhostapp.com        #add by cti-league.com
   127.0.0.1        dw.adyboh.com        #add by cti-league.com
   127.0.0.1        dysoool.com        #add by cti-league.com
+  127.0.0.1        e-document.frsteel.co.za        #add by cti-league.com
+  127.0.0.1        e4ll.psdzy.com        #add by cti-league.com
+  127.0.0.1        eastern-jealous-apricot.glitch.me        #add by cti-league.com
+  127.0.0.1        easy-steam.ru        #add by cti-league.com
   127.0.0.1        easydatatransfercleansystemprofessional.duckdns.org        #add by cti-league.com
   127.0.0.1        easytogets.com        #add by cti-league.com
+  127.0.0.1        ebay-payment-issues.com        #add by cti-league.com
+  127.0.0.1        ebay-promotion.free-listings-over-months.live        #add by cti-league.com
+  127.0.0.1        ebay.co.uk.12314358311.kim        #add by cti-league.com
   127.0.0.1        ebay.com-itm-2014-club-car-precedent-golf-cart.arxze.top        #add by cti-league.com
+  127.0.0.1        ebay.com.231.yt        #add by cti-league.com
+  127.0.0.1        ebillupdateshaw.is-an-accountant.com        #add by cti-league.com
   127.0.0.1        ebook.newscoronavirus.info        #add by cti-league.com
+  127.0.0.1        ecom.imageediting24.com        #add by cti-league.com
   127.0.0.1        edirneli.net        #add by cti-league.com
+  127.0.0.1        ee-activity.com        #add by cti-league.com
   127.0.0.1        ee-cop.co.uk        #add by cti-league.com
+  127.0.0.1        eecovid19-support150.hyundaigiadinhsaigon.com        #add by cti-league.com
   127.0.0.1        efhygienebv.com        #add by cti-league.com
+  127.0.0.1        egbalander.cloudaccess.host        #add by cti-league.com
+  127.0.0.1        egd2402.appspot.com        #add by cti-league.com
+  127.0.0.1        ekv26.app.link        #add by cti-league.com
+  127.0.0.1        elefantenmarkecom.unitravel.top        #add by cti-league.com
+  127.0.0.1        elegant-galileo-15e0de.netlify.com        #add by cti-league.com
+  127.0.0.1        elena.susypro.com        #add by cti-league.com
   127.0.0.1        eliteexportukltd.com        #add by cti-league.com
+  127.0.0.1        elitelegendsports.com        #add by cti-league.com
   127.0.0.1        email.gov.in.maildrive.email        #add by cti-league.com
+  127.0.0.1        emdgs.com        #add by cti-league.com
+  127.0.0.1        emenlause1987.blogspot.be        #add by cti-league.com
   127.0.0.1        emergencyprotectivemask.com        #add by cti-league.com
+  127.0.0.1        emiliocalderonpay.000webhostapp.com        #add by cti-league.com
   127.0.0.1        emrahkucukkapdan.com        #add by cti-league.com
   127.0.0.1        emsexpresscargo.com        #add by cti-league.com
   127.0.0.1        ent-covid19-gouv.info        #add by cti-league.com
   127.0.0.1        epidomacovid19.com        #add by cti-league.com
+  127.0.0.1        eqett13assz.appspot.com        #add by cti-league.com
+  127.0.0.1        equipodeseguridadbancaria.zz.com.ve        #add by cti-league.com
   127.0.0.1        erasmus-plius.tomasjs.com        #add by cti-league.com
+  127.0.0.1        es.monclershop.top        #add by cti-league.com
+  127.0.0.1        esccsh.com        #add by cti-league.com
+  127.0.0.1        espace.client.orange.frfacture.aiemen9001385296pagectures.accueitm.sourcrcourstm.ediumemailutm.campaignnotifmobilrubriqueacturlinenumber0601851320.anydayanytimebail.com        #add by cti-league.com
   127.0.0.1        estudiomaskilio.net        #add by cti-league.com
   127.0.0.1        euromopy.tech        #add by cti-league.com
   127.0.0.1        eviayoghurt.com.au        #add by cti-league.com
@@ -635,42 +972,134 @@
   127.0.0.1        examencoronavirus.cl        #add by cti-league.com
   127.0.0.1        exp100.strangled.net        #add by cti-league.com
   127.0.0.1        expertproject34.ru        #add by cti-league.com
+  127.0.0.1        extravasatingmetalworker.com        #add by cti-league.com
   127.0.0.1        extrudedalluminum.com        #add by cti-league.com
+  127.0.0.1        f.chat.whatsappgroups.sex-wa.ml        #add by cti-league.com
+  127.0.0.1        f.smssapp.com        #add by cti-league.com
+  127.0.0.1        f1bids.com        #add by cti-league.com
+  127.0.0.1        f63sdasa.appspot.com        #add by cti-league.com
+  127.0.0.1        f7fu9w.vteexcx.com        #add by cti-league.com
+  127.0.0.1        facebook--rayanj.repl.co        #add by cti-league.com
+  127.0.0.1        facebook-login.mypi.co        #add by cti-league.com
+  127.0.0.1        facebook-marketplace-item02939203823.karnaphuli.org        #add by cti-league.com
+  127.0.0.1        facebook-singiin.myiphost.com        #add by cti-league.com
+  127.0.0.1        facebook-singin.myiphost.com        #add by cti-league.com
+  127.0.0.1        facebook.com-check-2579600192.kranti-india.org        #add by cti-league.com
+  127.0.0.1        facebook.com-check-3134306713.kranti-india.org        #add by cti-league.com
+  127.0.0.1        facebook.com-check-3246274717.kranti-india.org        #add by cti-league.com
+  127.0.0.1        facebook.com-check-3564159642.kranti-india.org        #add by cti-league.com
+  127.0.0.1        facebook.com-check-3780941664.kranti-india.org        #add by cti-league.com
+  127.0.0.1        facebook.com-check-4842639222.kranti-india.org        #add by cti-league.com
+  127.0.0.1        facebook.com-check-7784434131.kranti-india.org        #add by cti-league.com
+  127.0.0.1        facebook.com-check-9175642621.kranti-india.org        #add by cti-league.com
+  127.0.0.1        facebook.com-check-9216800536.kranti-india.org        #add by cti-league.com
+  127.0.0.1        facebook.com-connect-3504761414.life-hope-coaching.com        #add by cti-league.com
+  127.0.0.1        facebook.com-marketplace-857893.healthportal.pk        #add by cti-league.com
+  127.0.0.1        facebook.com-marketplace-93839.mediaryte.co        #add by cti-league.com
+  127.0.0.1        facebook.com.uk.a2ip.ru        #add by cti-league.com
   127.0.0.1        facebook.corona-virus-news.xyz        #add by cti-league.com
+  127.0.0.1        facebook.gs-bd.org        #add by cti-league.com
+  127.0.0.1        facebook.marketplace.inversionesgdp.com        #add by cti-league.com
+  127.0.0.1        facebook.marketplace.somethingradco.com        #add by cti-league.com
+  127.0.0.1        facebook.portalclf.com.br        #add by cti-league.com
+  127.0.0.1        facebook.saifulislamjoy.xyz        #add by cti-league.com
+  127.0.0.1        facebook.selvatica.knowmonitor.com        #add by cti-league.com
+  127.0.0.1        facebook09873732320012.msmtek.com        #add by cti-league.com
+  127.0.0.1        facebookcc.mrface.com        #add by cti-league.com
   127.0.0.1        facemask4u.com        #add by cti-league.com
   127.0.0.1        facemasksupply.org        #add by cti-league.com
   127.0.0.1        facemasksupplyuk.net        #add by cti-league.com
+  127.0.0.1        facesboookk.000webhostapp.com        #add by cti-league.com
   127.0.0.1        fantom2020.myftp.org        #add by cti-league.com
+  127.0.0.1        fast-joingroup1.itsaol.com        #add by cti-league.com
+  127.0.0.1        fb-878931100-com.preview-domain.com        #add by cti-league.com
+  127.0.0.1        fb.page124saf-412v-security-account23311.us        #add by cti-league.com
+  127.0.0.1        fb1213243254.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        fb1logger.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        fb29843-page29864-real-estate-item28724.net        #add by cti-league.com
+  127.0.0.1        fb29857-page48756-real-estate-item53426.net        #add by cti-league.com
+  127.0.0.1        fb327-items-market46.farmerscentre.com.ng        #add by cti-league.com
+  127.0.0.1        fbgroupscuba.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        fbid-123625402580779-set.gm.26696.verify.serve.g0v.me        #add by cti-league.com
   127.0.0.1        fcsuppliesltd.com        #add by cti-league.com
   127.0.0.1        feb.kkooppt.com        #add by cti-league.com
+  127.0.0.1        fecebook-support-inbox.my.id        #add by cti-league.com
   127.0.0.1        fectedswunks-55.com        #add by cti-league.com
+  127.0.0.1        fedreserves.org        #add by cti-league.com
+  127.0.0.1        fernanda-vieira.com        #add by cti-league.com
   127.0.0.1        ffpharmabv.com        #add by cti-league.com
+  127.0.0.1        fgngvp.kk.sopqa.arg.r.uk.a2ip.ru        #add by cti-league.com
+  127.0.0.1        fhhfg.000webhostapp.com        #add by cti-league.com
   127.0.0.1        fiatechco.com        #add by cti-league.com
   127.0.0.1        fightvscorona.com        #add by cti-league.com
   127.0.0.1        figlidelcorona.com        #add by cti-league.com
+  127.0.0.1        fileoutloook.netlify.com        #add by cti-league.com
+  127.0.0.1        filesecuresharing.eu-gb.mybluemix.net        #add by cti-league.com
+  127.0.0.1        first-american.bankinginus.com        #add by cti-league.com
   127.0.0.1        firstchoicesuppliesltd.com        #add by cti-league.com
   127.0.0.1        fmgdisposable.com        #add by cti-league.com
+  127.0.0.1        followersitefre.000webhostapp.com        #add by cti-league.com
   127.0.0.1        footytube.top        #add by cti-league.com
   127.0.0.1        force-majeure-coronavirus.com        #add by cti-league.com
+  127.0.0.1        fordlinliriz1984.blogspot.be        #add by cti-league.com
   127.0.0.1        formsfactor.com        #add by cti-league.com
+  127.0.0.1        fqhaljtr.healthygenez.club        #add by cti-league.com
+  127.0.0.1        franubait.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        free-paynpal.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        free-payopal.000webhostapp.com        #add by cti-league.com
   127.0.0.1        freecoronavirusoffer.com        #add by cti-league.com
   127.0.0.1        freetospeak.me        #add by cti-league.com
+  127.0.0.1        freewhatsap.site        #add by cti-league.com
   127.0.0.1        frufacemasksupply.com        #add by cti-league.com
+  127.0.0.1        fswgqt.vteexcx.com        #add by cti-league.com
+  127.0.0.1        ftp.quickclickresume.com        #add by cti-league.com
   127.0.0.1        ftp.testcoronavirus.shop        #add by cti-league.com
+  127.0.0.1        fucebookfun.000webhostapp.com        #add by cti-league.com
   127.0.0.1        fuckthecovid19.com        #add by cti-league.com
+  127.0.0.1        fuliginous-approach.000webhostapp.com        #add by cti-league.com
   127.0.0.1        fuly-lucky.com        #add by cti-league.com
+  127.0.0.1        funatsu.biz        #add by cti-league.com
+  127.0.0.1        g.efilming.cn        #add by cti-league.com
+  127.0.0.1        g.www.dyamm.com        #add by cti-league.com
+  127.0.0.1        g024pwsdoxc.appspot.com        #add by cti-league.com
   127.0.0.1        g4supplements.com.ua        #add by cti-league.com
+  127.0.0.1        gabunggrupbokepp18.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        gabunggrupwhatsapp2020.zzux.com        #add by cti-league.com
+  127.0.0.1        gabungwagrub10.join-wa.net        #add by cti-league.com
+  127.0.0.1        ganhar.giftgratis.online        #add by cti-league.com
   127.0.0.1        gardapalace.it        #add by cti-league.com
+  127.0.0.1        gaws30.webwave.me        #add by cti-league.com
+  127.0.0.1        gcash-fcebook.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        gdpr-law-giffgaff.support        #add by cti-league.com
   127.0.0.1        genpharmaceuticals.com        #add by cti-league.com
   127.0.0.1        gerdua.com        #add by cti-league.com
+  127.0.0.1        gessultbragout1977.blogspot.be        #add by cti-league.com
   127.0.0.1        getegroup.com        #add by cti-league.com
+  127.0.0.1        getithref.freedynamicdns.org        #add by cti-league.com
+  127.0.0.1        getknife.club        #add by cti-league.com
   127.0.0.1        getrankeltd.com        #add by cti-league.com
+  127.0.0.1        getstimulusrefund.com        #add by cti-league.com
+  127.0.0.1        gettable-half.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        getupdate-manage-server.duckdns.org        #add by cti-league.com
+  127.0.0.1        gf54tgfzxz.appspot.com        #add by cti-league.com
   127.0.0.1        ggooglecoronavirus.com        #add by cti-league.com
+  127.0.0.1        gh9wepszo.appspot.com        #add by cti-league.com
+  127.0.0.1        giffgaff-gdpr.com        #add by cti-league.com
+  127.0.0.1        giffgaff.click        #add by cti-league.com
   127.0.0.1        gioliofattura.xyz        #add by cti-league.com
+  127.0.0.1        girlxinh12.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        giuuijhjhujhk.rf.gd        #add by cti-league.com
+  127.0.0.1        giva-karakter-gratis-ff-2020.000webhostapp.com        #add by cti-league.com
   127.0.0.1        glamfromeast.com        #add by cti-league.com
+  127.0.0.1        gmailerstellen.de        #add by cti-league.com
+  127.0.0.1        gnqv.dyamm.com        #add by cti-league.com
+  127.0.0.1        go.libertymotorsonline.com        #add by cti-league.com
   127.0.0.1        gocycle.com.au        #add by cti-league.com
   127.0.0.1        goldenlion.sg        #add by cti-league.com
+  127.0.0.1        golosavk.vipshop.ru        #add by cti-league.com
   127.0.0.1        goodattack.duckdns.org        #add by cti-league.com
+  127.0.0.1        goodtoothclinic.com        #add by cti-league.com
+  127.0.0.1        google.vipcentr.ru        #add by cti-league.com
   127.0.0.1        googlecoornavirus.com        #add by cti-league.com
   127.0.0.1        googlecoranavirus.com        #add by cti-league.com
   127.0.0.1        googlecornavirus.com        #add by cti-league.com
@@ -699,55 +1128,265 @@
   127.0.0.1        googlecpronavirus.com        #add by cti-league.com
   127.0.0.1        googlecronavirus.com        #add by cti-league.com
   127.0.0.1        googlecroonavirus.com        #add by cti-league.com
+  127.0.0.1        googletagnamager.com        #add by cti-league.com
   127.0.0.1        googlexoronavirus.com        #add by cti-league.com
+  127.0.0.1        gouvcanada-covid19.com        #add by cti-league.com
   127.0.0.1        gouvref456216verifauthentification.com        #add by cti-league.com
   127.0.0.1        gov-ca-covid19.org        #add by cti-league.com
+  127.0.0.1        gpiaimmanuel.org        #add by cti-league.com
+  127.0.0.1        gquy4.app.link        #add by cti-league.com
+  127.0.0.1        greathalf.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        groub-chat-whatapps20.gets5.com        #add by cti-league.com
+  127.0.0.1        group-seks-video.wa-xxx.com        #add by cti-league.com
+  127.0.0.1        group-whatsapps.xxuz.com        #add by cti-league.com
+  127.0.0.1        group-whatsapss.zzux.com        #add by cti-league.com
+  127.0.0.1        groups-chats-whatsapps7.wikaba.com        #add by cti-league.com
+  127.0.0.1        groupsex2020.event-indo.com        #add by cti-league.com
+  127.0.0.1        groupwa.joins5.com        #add by cti-league.com
+  127.0.0.1        groupwhaatups67xxx.zpetto.com        #add by cti-league.com
+  127.0.0.1        groupwhattsap.jkub.com        #add by cti-league.com
+  127.0.0.1        grp01.id.rakuten.co.jp.08c0057137b58db66423da9d6ab0300e1e3c6e66.info        #add by cti-league.com
+  127.0.0.1        grp01.id.rakuten.co.jp.22e10522c1e306c8266ab3843a053caa593167e7.info        #add by cti-league.com
+  127.0.0.1        grp01.id.rakuten.co.jp.87c7dd97926587e6e4d565d4e94d784af1d2d46d.info        #add by cti-league.com
+  127.0.0.1        grp02.id.rakuten.co.jp.9d895671d39afb4514a955680b702a116e2b4176.info        #add by cti-league.com
+  127.0.0.1        grpbkpwa.xx.ygto.com        #add by cti-league.com
+  127.0.0.1        grub-bokeh-whatsap-terbaru-dan-viral2020.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grub-whatsap-khusus-dewasa18-viral2020.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grub-whatsapp.frezze.ga        #add by cti-league.com
+  127.0.0.1        grub-whatsapp.whatxapp.cf        #add by cti-league.com
+  127.0.0.1        grubbhottwhatsapp-xnxx.v-25.com        #add by cti-league.com
+  127.0.0.1        grubjapanesehot18.2waky.com        #add by cti-league.com
+  127.0.0.1        grubjoinsexxbokep.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grubterbaru2121.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grubwajhaa766.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grubwhastapp18terbaru.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grup-bk3p-vir4al9.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grup-bk3pviralll.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grup-bokep-asia-18.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grup-bokep-bulan-april-2020.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grup-bokep-terbaru69.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grup-bokepjepang-18.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grup-dewasabokepjepang.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grup-join-whatsapp.vizvaz.com        #add by cti-league.com
+  127.0.0.1        grup-mabar-free-fire-batllegrounds.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grup-whastapp12.free78.ga        #add by cti-league.com
+  127.0.0.1        grup-whatsapp-invite.zzux.com        #add by cti-league.com
+  127.0.0.1        grup-whatsapp.69.ocry.com        #add by cti-league.com
+  127.0.0.1        grupbokep-wa1.wa-xxx.com        #add by cti-league.com
+  127.0.0.1        grupbokep.kha20.tk        #add by cti-league.com
+  127.0.0.1        grupbokep01.hol50.com        #add by cti-league.com
+  127.0.0.1        grupbokep02.hol50.com        #add by cti-league.com
+  127.0.0.1        grupbokep101.hol50.com        #add by cti-league.com
+  127.0.0.1        grupbokepindo.jetos.com        #add by cti-league.com
+  127.0.0.1        grupbokepindo.ourhobby.com        #add by cti-league.com
+  127.0.0.1        grupbokepindo.www1.biz        #add by cti-league.com
+  127.0.0.1        grupbokesexchat18.deafult.com        #add by cti-league.com
+  127.0.0.1        gruphijabindoterbaru2020.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        gruphijabsangeindo2022.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grupsexoldamerica.collect20.com        #add by cti-league.com
+  127.0.0.1        grupviral09.zzux.com        #add by cti-league.com
+  127.0.0.1        grupviral18.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grupviralhijabsangehot.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grupwa22.deafult.com        #add by cti-league.com
+  127.0.0.1        grupwaasoy.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        grupwabokep06.hol50.com        #add by cti-league.com
+  127.0.0.1        grupwasap.ccoz.shop        #add by cti-league.com
+  127.0.0.1        grupwhatsapp.hol7.com        #add by cti-league.com
+  127.0.0.1        grupwhatsapp5.jkub.com        #add by cti-league.com
+  127.0.0.1        grupwhattsappboke.wa-sex.com        #add by cti-league.com
+  127.0.0.1        grupxnxn.item80.com        #add by cti-league.com
+  127.0.0.1        guardiao.itaumoduloativar.com        #add by cti-league.com
   127.0.0.1        gubg.pro        #add by cti-league.com
+  127.0.0.1        gumtree.com-see.enquiry-id-918412.net        #add by cti-league.com
+  127.0.0.1        h.23yue.cn        #add by cti-league.com
+  127.0.0.1        h1232.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        h49wpzxosa.appspot.com        #add by cti-league.com
   127.0.0.1        hadji.com.my        #add by cti-league.com
+  127.0.0.1        hajaijshd.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        happinity.jp        #add by cti-league.com
+  127.0.0.1        hautinard.kissr.com        #add by cti-league.com
   127.0.0.1        hb-bonusclaim.com        #add by cti-league.com
   127.0.0.1        healing-yui223.com        #add by cti-league.com
   127.0.0.1        healthconnectltd.com        #add by cti-league.com
   127.0.0.1        healthfirst-supply.com        #add by cti-league.com
   127.0.0.1        heinrichgrp.com        #add by cti-league.com
+  127.0.0.1        help.instagram.com.v48x940518db8038a593.cf        #add by cti-league.com
   127.0.0.1        helpcoronacare.com        #add by cti-league.com
   127.0.0.1        helpkoronavirus.ru        #add by cti-league.com
   127.0.0.1        helppreventcoronavirus.org        #add by cti-league.com
+  127.0.0.1        hhfd.m9z8l.cn        #add by cti-league.com
+  127.0.0.1        hillcrestgunshop.co.za        #add by cti-league.com
+  127.0.0.1        hj56dfczx.appspot.com        #add by cti-league.com
+  127.0.0.1        hj86esda.appspot.com        #add by cti-league.com
   127.0.0.1        hmrc-cov19.payment.estrodev.com        #add by cti-league.com
   127.0.0.1        hmrc-govupdate-covid-19.com        #add by cti-league.com
   127.0.0.1        hmrc.approvedrefund-covid-19.com        #add by cti-league.com
   127.0.0.1        hmrc.corona-pay.estrodev.com        #add by cti-league.com
+  127.0.0.1        hmrc.gov-claims.com        #add by cti-league.com
   127.0.0.1        hmrc.gov.rebate-details.com        #add by cti-league.com
+  127.0.0.1        hmrc.gov.refund-form.co.uk        #add by cti-league.com
+  127.0.0.1        hmrc.uk-return.com        #add by cti-league.com
+  127.0.0.1        hmrc.uk-taxform.com        #add by cti-league.com
+  127.0.0.1        homeservices.cybersecure.co.za        #add by cti-league.com
+  127.0.0.1        homogenetic-revisio.000webhostapp.com        #add by cti-league.com
   127.0.0.1        hoosiercoronavirus.com        #add by cti-league.com
   127.0.0.1        hopewhilecorona.com        #add by cti-league.com
+  127.0.0.1        hotel-zwaml.be        #add by cti-league.com
   127.0.0.1        hotelcoronaferrea.uchi1078.7artisan.net        #add by cti-league.com
+  127.0.0.1        howprotectmypass.webservis.ru        #add by cti-league.com
+  127.0.0.1        howtohackwifi-password.com        #add by cti-league.com
   127.0.0.1        hrcorp1.site        #add by cti-league.com
+  127.0.0.1        hstjk.weblium.site        #add by cti-league.com
   127.0.0.1        hstquarantine.xyz        #add by cti-league.com
+  127.0.0.1        ht3010319930087281645261839001993901-381.netlify.com        #add by cti-league.com
+  127.0.0.1        htwave.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        hubcapguy.com        #add by cti-league.com
+  127.0.0.1        humane-marten.glitch.me        #add by cti-league.com
+  127.0.0.1        hungdubau.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        hutoknepper.de        #add by cti-league.com
+  127.0.0.1        hym.unhd.dalians.cn        #add by cti-league.com
   127.0.0.1        i-stopcoronavirus.com        #add by cti-league.com
+  127.0.0.1        i-tau-atendimento.online        #add by cti-league.com
+  127.0.0.1        i96818wt.beget.tech        #add by cti-league.com
+  127.0.0.1        iapple-support.net        #add by cti-league.com
+  127.0.0.1        ic.appfsms.com        #add by cti-league.com
+  127.0.0.1        icloud-mydevice.com        #add by cti-league.com
+  127.0.0.1        icloud.com-ids.ru        #add by cti-league.com
+  127.0.0.1        icloud.com-ios.me        #add by cti-league.com
+  127.0.0.1        icloud.com.findmy-iphone.info        #add by cti-league.com
+  127.0.0.1        icloud.com.flnd.space        #add by cti-league.com
+  127.0.0.1        icloud.com.support-careplus.com        #add by cti-league.com
+  127.0.0.1        icloud.com.uk-maps.info        #add by cti-league.com
   127.0.0.1        id-covid19.com        #add by cti-league.com
+  127.0.0.1        idauone-kddi-jp.com        #add by cti-league.com
+  127.0.0.1        ie.monclernorway.com        #add by cti-league.com
+  127.0.0.1        ig-popular.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        igforyoupage.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        igxeluck.com        #add by cti-league.com
   127.0.0.1        ihracat.myq-see.com        #add by cti-league.com
+  127.0.0.1        ill-gotten-fog.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        ilo.brenz.pl        #add by cti-league.com
   127.0.0.1        imbc.onthewifi.com        #add by cti-league.com
   127.0.0.1        impots-covid19.com        #add by cti-league.com
+  127.0.0.1        impotss-gouv.ddns.net        #add by cti-league.com
+  127.0.0.1        inbred-rail.000webhostapp.com        #add by cti-league.com
   127.0.0.1        informacion2-account.confirm--expired.maskimak.com        #add by cti-league.com
+  127.0.0.1        ing.securecovid-19.noez.me        #add by cti-league.com
+  127.0.0.1        iniciosecionprueba23.000webhostapp.com        #add by cti-league.com
   127.0.0.1        instaboom-hello.site        #add by cti-league.com
+  127.0.0.1        instabuddy28.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        instadpcomp2020.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        instafollowers32.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        instagram.com.login.s5df46ss21s.oficinasylocalesfiore.com        #add by cti-league.com
+  127.0.0.1        instagram.copyright-helps.com        #add by cti-league.com
+  127.0.0.1        instagram.helpteam.cf        #add by cti-league.com
+  127.0.0.1        instagram.quranicweb.com        #add by cti-league.com
+  127.0.0.1        instaofficialgame.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        instaqram.5v.pl        #add by cti-league.com
+  127.0.0.1        instaquake.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        inststgramm.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        intelligential-mass.000webhostapp.com        #add by cti-league.com
   127.0.0.1        interacservcovid-19.com        #add by cti-league.com
+  127.0.0.1        invoiceprocessing.netlify.com        #add by cti-league.com
+  127.0.0.1        invtgrupsexjoin9.collect20.com        #add by cti-league.com
+  127.0.0.1        ionos.it.apulia70.com.industrialcar.it        #add by cti-league.com
+  127.0.0.1        irisdigi-labs.com        #add by cti-league.com
+  127.0.0.1        itacardacesso.com        #add by cti-league.com
   127.0.0.1        italycovid-19.site        #add by cti-league.com
+  127.0.0.1        itau-2020.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        itau-card-2020.rf.gd        #add by cti-league.com
+  127.0.0.1        itau-card.net        #add by cti-league.com
+  127.0.0.1        itau-cartao.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        itau.usuariomaster.com        #add by cti-league.com
+  127.0.0.1        itaucard-atualizo.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        itaucardclick.cf        #add by cti-league.com
+  127.0.0.1        itauiti.com        #add by cti-league.com
+  127.0.0.1        itaulimite.com        #add by cti-league.com
+  127.0.0.1        itauparavoce.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        iti-app.com        #add by cti-league.com
+  127.0.0.1        itsnewone.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        iy9erpxzoaz.appspot.com        #add by cti-league.com
+  127.0.0.1        j965rtpdfxoz.appspot.com        #add by cti-league.com
   127.0.0.1        jandsharpdisposable.com        #add by cti-league.com
+  127.0.0.1        jas8aspzxoias.appspot.com        #add by cti-league.com
   127.0.0.1        jasonbeautyshop.com        #add by cti-league.com
   127.0.0.1        jasonscottpharmacy.com        #add by cti-league.com
   127.0.0.1        jayalbertandassociates.com        #add by cti-league.com
+  127.0.0.1        jh89jdfhx.appspot.com        #add by cti-league.com
+  127.0.0.1        jiankangweishi.net        #add by cti-league.com
   127.0.0.1        jira-lhost.com        #add by cti-league.com
+  127.0.0.1        jjj.snprobbx.pbz.r.uk.a2ip.ru        #add by cti-league.com
   127.0.0.1        jkagro.com        #add by cti-league.com
   127.0.0.1        jmable.mireene.com        #add by cti-league.com
   127.0.0.1        jmdesign.mireene.com        #add by cti-league.com
   127.0.0.1        jocoly.esvnpe.com        #add by cti-league.com
+  127.0.0.1        join-chat-whatsap.ok.ygto.com        #add by cti-league.com
+  127.0.0.1        join-chattwhatsahpp18.wa-xxx.com        #add by cti-league.com
+  127.0.0.1        join-chatwhatsapp0547514824.cx-5.tk        #add by cti-league.com
+  127.0.0.1        join-chatwhatsapp084754824.cx-5.tk        #add by cti-league.com
+  127.0.0.1        join-groub-whatsapp18.hol50.com        #add by cti-league.com
+  127.0.0.1        join-group-bokep-wa-indo-2020.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        join-group18.wa-sex.com        #add by cti-league.com
+  127.0.0.1        join-group65.item80.com        #add by cti-league.com
+  127.0.0.1        join-group97.collect20.com        #add by cti-league.com
+  127.0.0.1        join-grub-mabar-freefire-terbaru.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        join-grup-vcs-free-for-now.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        join-grup-whatsaap-budi01gaming.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        join-grup-whatsapp18.qhigh.com        #add by cti-league.com
+  127.0.0.1        join-whatsappinvite.4dq.com        #add by cti-league.com
+  127.0.0.1        join.whatsapp.v-25.com        #add by cti-league.com
+  127.0.0.1        join18grubwa.itsaol.com        #add by cti-league.com
+  127.0.0.1        joinbokepnwviral.joins5.com        #add by cti-league.com
+  127.0.0.1        joinchatgrup18hot.mrbonus.com        #add by cti-league.com
+  127.0.0.1        joinchatgrupwhatsapp30.mrbonus.com        #add by cti-league.com
+  127.0.0.1        joinchatgrupwhatsapp31.mrbonus.com        #add by cti-league.com
+  127.0.0.1        joinchatgrupwhatsapp91.mrbonus.com        #add by cti-league.com
+  127.0.0.1        joinchatwhatsapp.joinss.ga        #add by cti-league.com
+  127.0.0.1        joingorupwabokepindo.otzo.com        #add by cti-league.com
+  127.0.0.1        joingroup.wa-xxx.com        #add by cti-league.com
+  127.0.0.1        joingroupviral123.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        joingrub-18jepang1.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        joingrub-wabokepindo.zzux.com        #add by cti-league.com
+  127.0.0.1        joingrubwhsats18.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        joingrup18new2020.vvipx.net        #add by cti-league.com
+  127.0.0.1        joingrup2020.vip-smm.com        #add by cti-league.com
+  127.0.0.1        joingrupbokepindoviral09.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        joingrupdewasaviralterbaru.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        joingruphotyangbikinseger.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        joingruppwhatsapp.4dq.com        #add by cti-league.com
+  127.0.0.1        joingrupwa18terbaru2020.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        joingrupwahot.wa-18.com        #add by cti-league.com
+  127.0.0.1        joingrupwhatsappsex.20.itsaol.com        #add by cti-league.com
+  127.0.0.1        joinw-hatsapp-bokep.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        joinwhatsapp.xx.ygto.com        #add by cti-league.com
+  127.0.0.1        jolly-meninsky-cd85a6.netlify.com        #add by cti-league.com
+  127.0.0.1        joz.vteexcx.com        #add by cti-league.com
+  127.0.0.1        jpnyofv.healthygenez.club        #add by cti-league.com
+  127.0.0.1        jppost-bo.com        #add by cti-league.com
   127.0.0.1        jsholdingbv.com        #add by cti-league.com
+  127.0.0.1        jugoslavian-music.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        juronglicai.com        #add by cti-league.com
+  127.0.0.1        justificatory-grind.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        k91142t4.beget.tech        #add by cti-league.com
+  127.0.0.1        kama.hop.ru        #add by cti-league.com
   127.0.0.1        kampcbation.info        #add by cti-league.com
+  127.0.0.1        karlafranchescavideoshot.000webhostapp.com        #add by cti-league.com
   127.0.0.1        karta-coronavirusa.online        #add by cti-league.com
   127.0.0.1        kbfvzoboss.bid        #add by cti-league.com
+  127.0.0.1        kelvin21.doodlekit.com        #add by cti-league.com
   127.0.0.1        keylock.ad.estrodev.com        #add by cti-league.com
+  127.0.0.1        kfas0zoxas.appspot.com        #add by cti-league.com
   127.0.0.1        ki-medicalsgmbh.com        #add by cti-league.com
+  127.0.0.1        kiwe0pzxo.appspot.com        #add by cti-league.com
+  127.0.0.1        klikuntukbergabung.wa-18.com        #add by cti-league.com
+  127.0.0.1        klj5687dfgs.appspot.com        #add by cti-league.com
+  127.0.0.1        knightsbridgeenergy.com.ng        #add by cti-league.com
   127.0.0.1        kolamana.com        #add by cti-league.com
+  127.0.0.1        konfirmasi-akun100.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        konfirmasi-akun223.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        kontol.se-es.tk        #add by cti-league.com
   127.0.0.1        korona-1.gq        #add by cti-league.com
+  127.0.0.1        korona-4.ml        #add by cti-league.com
   127.0.0.1        korona.augustow.pl.ela-travel.sldc.pl        #add by cti-league.com
   127.0.0.1        koronavirus-covid19.com        #add by cti-league.com
   127.0.0.1        koronavirus-live.ru        #add by cti-league.com
@@ -759,22 +1398,126 @@
   127.0.0.1        krt2.site        #add by cti-league.com
   127.0.0.1        krupoonsak.com        #add by cti-league.com
   127.0.0.1        ksmaskfastigheterab.com        #add by cti-league.com
+  127.0.0.1        kumpulanbokepviral.ambil-hadiah.com        #add by cti-league.com
+  127.0.0.1        kumpulanorgsnge18.wa-sex.com        #add by cti-league.com
+  127.0.0.1        kupony.allegro.secfence.lesavik.net        #add by cti-league.com
+  127.0.0.1        kuy-joingrupbkp.v-25.com        #add by cti-league.com
+  127.0.0.1        l.grroupsswhatsapp.wa-18.com        #add by cti-league.com
   127.0.0.1        laciewinking.com        #add by cti-league.com
   127.0.0.1        lamourautempsducorona.cc        #add by cti-league.com
+  127.0.0.1        laughing-pike-c6b1d5.netlify.com        #add by cti-league.com
+  127.0.0.1        lbb.agencia-digitalapp.com        #add by cti-league.com
+  127.0.0.1        ld3bs.com        #add by cti-league.com
+  127.0.0.1        league0flegends0det43.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        league0flegends0khil2.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        leckerreinschneideir.de        #add by cti-league.com
   127.0.0.1        legadoforumcidadao.org        #add by cti-league.com
+  127.0.0.1        lenagruessdich.net        #add by cti-league.com
+  127.0.0.1        lender.sandbox.natwest.poweredbydivido.com        #add by cti-league.com
+  127.0.0.1        lender.testing.santander.poweredbydivido.com        #add by cti-league.com
   127.0.0.1        letsfightcoronavirus.com        #add by cti-league.com
+  127.0.0.1        liberabcp.molvilid.com        #add by cti-league.com
   127.0.0.1        libjs.inquirerjs.com        #add by cti-league.com
+  127.0.0.1        lijing-friends.com        #add by cti-league.com
+  127.0.0.1        llmvi.dogestocks.com        #add by cti-league.com
   127.0.0.1        lluhpicucovid19hub.net        #add by cti-league.com
   127.0.0.1        lluhpicucovid19hub.org        #add by cti-league.com
   127.0.0.1        lngdesk-quarantaine.info        #add by cti-league.com
+  127.0.0.1        lnstagramiogln.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        locaibtcoins.net        #add by cti-league.com
+  127.0.0.1        localtbicoims.com        #add by cti-league.com
+  127.0.0.1        locked.appleid.apple.com.services-and-support.com        #add by cti-league.com
+  127.0.0.1        logconfsessionloginservicefacturation.resto-rochier.fr        #add by cti-league.com
+  127.0.0.1        login-facebook.muslimyouthsleague.org        #add by cti-league.com
+  127.0.0.1        login-yahoo-secured-ymail-verification-lang-2en-usdinvalid-cred.weebly.com        #add by cti-league.com
+  127.0.0.1        login.365.eperidemo.net        #add by cti-league.com
+  127.0.0.1        login.live.com.medbp.com        #add by cti-league.com
   127.0.0.1        login.microsoftonline.com.common.co.client-id-s1o2ff-10002-0ff1.com        #add by cti-league.com
   127.0.0.1        login.microsoftonline.com.common.hi.client-id-s1o2ff-10002-0ff1.com        #add by cti-league.com
+  127.0.0.1        login.microsoftonline.com.o0s.cc        #add by cti-league.com
   127.0.0.1        login.unicef.org.adfs.ls.oauth2.client-id-s1o2ff-10002-0ff1.com        #add by cti-league.com
+  127.0.0.1        login.verizonwireless-secure.vzauth-ui-login.com        #add by cti-league.com
+  127.0.0.1        login.yahoo.com.medbp.com        #add by cti-league.com
+  127.0.0.1        login897349293284actiontruesky.uniattack.com        #add by cti-league.com
+  127.0.0.1        logroom.top        #add by cti-league.com
+  127.0.0.1        lombare-rabe.kissr.com        #add by cti-league.com
+  127.0.0.1        lommsrecu3.firebaseapp.com        #add by cti-league.com
+  127.0.0.1        longhands.net        #add by cti-league.com
+  127.0.0.1        loud-plausible-skunk.glitch.me        #add by cti-league.com
   127.0.0.1        loveinthetimeofcovid-19.com        #add by cti-league.com
+  127.0.0.1        lqwnyeax.sovereignty2020.com        #add by cti-league.com
+  127.0.0.1        lvqzracb-74725-hjge-dot-sso-secure-servr.appspot.com        #add by cti-league.com
+  127.0.0.1        m-kleinanzeigen.de.s-anzeige1.com        #add by cti-league.com
+  127.0.0.1        m-visa.com-undergo-aujhbhthgo.eyedrops.ro        #add by cti-league.com
+  127.0.0.1        m-visa.com-undergo-aujhbhthqgo.eyedrops.ro        #add by cti-league.com
+  127.0.0.1        m.2685kve.com        #add by cti-league.com
+  127.0.0.1        m.2882lko.com        #add by cti-league.com
+  127.0.0.1        m.5236kvn.com        #add by cti-league.com
+  127.0.0.1        m.appssms.com        #add by cti-league.com
+  127.0.0.1        m.emb8799.com        #add by cti-league.com
+  127.0.0.1        m.emj6977.com        #add by cti-league.com
+  127.0.0.1        m.emv3563.com        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-0323830194.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-0582568846.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-0795687918.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-0864817305.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-1208849141.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-2209535679.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-2217475226.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-2682253005.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-2972719561.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-3134306713.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-3237586243.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-3381065465.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-3487266852.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-3499368877.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-3780941664.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-4429666479.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-4450217746.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-4672364803.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-4842639222.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-4919220548.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-5355994215.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-5778194313.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-6323485579.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-6324313209.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-6434492404.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-6599325173.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-7256962504.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-7883647475.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-8223513408.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-8447311892.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-8506359658.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-8673030366.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-9168047559.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-9175642621.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-9216800536.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-check-9279457953.kranti-india.org        #add by cti-league.com
+  127.0.0.1        m.facebook.com-connect-3504761414.life-hope-coaching.com        #add by cti-league.com
+  127.0.0.1        m.g2273.com        #add by cti-league.com
+  127.0.0.1        m.genovesevanderhoof.com        #add by cti-league.com
+  127.0.0.1        m.ham9222.com        #add by cti-league.com
+  127.0.0.1        m.hf2019.com        #add by cti-league.com
+  127.0.0.1        m.kvm9723.com        #add by cti-league.com
+  127.0.0.1        m.lks2983.com        #add by cti-league.com
+  127.0.0.1        m.lkw8637.com        #add by cti-league.com
   127.0.0.1        m.topiccore.com        #add by cti-league.com
   127.0.0.1        m0bile.net        #add by cti-league.com
+  127.0.0.1        m906727v.beget.tech        #add by cti-league.com
+  127.0.0.1        magalu-liquida2020.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        magazineluzi.com        #add by cti-league.com
+  127.0.0.1        magazyn.allegro.secfence.lesavik.net        #add by cti-league.com
   127.0.0.1        magbiosolutions.com        #add by cti-league.com
+  127.0.0.1        mahogany-broadleaf-troodon.glitch.me        #add by cti-league.com
+  127.0.0.1        mail.bankofamericaonlinesignin.net        #add by cti-league.com
+  127.0.0.1        mail.beloinox.pl        #add by cti-league.com
   127.0.0.1        mail.bestcoronavirusprotect.tk        #add by cti-league.com
+  127.0.0.1        mail.bokepwa18hotgrup.onfyis.com        #add by cti-league.com
+  127.0.0.1        mail.brazersex.id.ocry.com        #add by cti-league.com
+  127.0.0.1        mail.cdn03-whatsapp.69.ocry.com        #add by cti-league.com
+  127.0.0.1        mail.chat-grupwhatsahp17.ok.ygto.com        #add by cti-league.com
+  127.0.0.1        mail.chat-whatsappsek.hol7.com        #add by cti-league.com
+  127.0.0.1        mail.chinawagroupsexy512.site-hadiah.com        #add by cti-league.com
   127.0.0.1        mail.corona-virus-map.org        #add by cti-league.com
   127.0.0.1        mail.corona-virus-vaccine.com        #add by cti-league.com
   127.0.0.1        mail.coronafundme.com        #add by cti-league.com
@@ -793,9 +1536,29 @@
   127.0.0.1        mail.coronavirususanews.com        #add by cti-league.com
   127.0.0.1        mail.eagleeyeapparels.com        #add by cti-league.com
   127.0.0.1        mail.examencoronavirus.cl        #add by cti-league.com
+  127.0.0.1        mail.ezy1.co.uk        #add by cti-league.com
+  127.0.0.1        mail.gabungsekarangdi.wa-18.com        #add by cti-league.com
+  127.0.0.1        mail.groupbokepx.20.itsaol.com        #add by cti-league.com
+  127.0.0.1        mail.grup-wa-2020.myy.toh.info        #add by cti-league.com
+  127.0.0.1        mail.grup-whatsapp.69.ocry.com        #add by cti-league.com
+  127.0.0.1        mail.homeservices.cybersecure.co.za        #add by cti-league.com
+  127.0.0.1        mail.invtgrupsexjoin9.collect20.com        #add by cti-league.com
+  127.0.0.1        mail.joingroupbokep87.wa-18.com        #add by cti-league.com
+  127.0.0.1        mail.joingrupwhatsapp.wa-18.com        #add by cti-league.com
+  127.0.0.1        mail.joingrupwhatsappsex.20.itsaol.com        #add by cti-league.com
+  127.0.0.1        mail.l.grroupsswhatsapp.wa-18.com        #add by cti-league.com
   127.0.0.1        mail.mapadocoronavirus.tk        #add by cti-league.com
   127.0.0.1        mail.n95coronavirusmaske.com        #add by cti-league.com
+  127.0.0.1        mail.newgrupsexjavanes.collect20.com        #add by cti-league.com
+  127.0.0.1        mail.paypahelpdesk.info        #add by cti-league.com
+  127.0.0.1        mail.personalportfolio.com.au        #add by cti-league.com
   127.0.0.1        mail.securitycovid19info.com        #add by cti-league.com
+  127.0.0.1        mail.wagruphot.wa-18.com        #add by cti-league.com
+  127.0.0.1        mail.wasange2.wa-18.com        #add by cti-league.com
+  127.0.0.1        mail.wealthwelldone.net        #add by cti-league.com
+  127.0.0.1        mail.whatsapp-group.claim.my.id        #add by cti-league.com
+  127.0.0.1        mailingshipauthbox.webador.com        #add by cti-league.com
+  127.0.0.1        malachite-rural-gander.glitch.me        #add by cti-league.com
   127.0.0.1        manjongtrading.co.za        #add by cti-league.com
   127.0.0.1        mapadocoronavirus.com        #add by cti-league.com
   127.0.0.1        marchadvertisingnetwork10.com        #add by cti-league.com
@@ -805,7 +1568,17 @@
   127.0.0.1        marchadvertisingnetwork7.com        #add by cti-league.com
   127.0.0.1        marchadvertisingnetwork8.com        #add by cti-league.com
   127.0.0.1        marchadvertisingnetwork9.com        #add by cti-league.com
+  127.0.0.1        mariofm.com        #add by cti-league.com
+  127.0.0.1        marketplace4411577918476651.com        #add by cti-league.com
+  127.0.0.1        marketplace824827568578.com        #add by cti-league.com
+  127.0.0.1        marketplace82484274878.com        #add by cti-league.com
+  127.0.0.1        marketplace826846872.com        #add by cti-league.com
+  127.0.0.1        marketplace826847278.com        #add by cti-league.com
+  127.0.0.1        marketplace82784628487.com        #add by cti-league.com
+  127.0.0.1        marketplace8624824787.com        #add by cti-league.com
+  127.0.0.1        marketplace8884272747.com        #add by cti-league.com
   127.0.0.1        marsdefenseandscience.com        #add by cti-league.com
+  127.0.0.1        marywaltonjones.com        #add by cti-league.com
   127.0.0.1        mask-online.xyz        #add by cti-league.com
   127.0.0.1        mask-redcross.site        #add by cti-league.com
   127.0.0.1        maskimak.com        #add by cti-league.com
@@ -823,6 +1596,7 @@
   127.0.0.1        masry-corona8.com        #add by cti-league.com
   127.0.0.1        masry-corona9.com        #add by cti-league.com
   127.0.0.1        mavironsupplies.com        #add by cti-league.com
+  127.0.0.1        mbank-redirection-mobile.blogspot.com        #add by cti-league.com
   127.0.0.1        mbhydro-covid19.com        #add by cti-league.com
   127.0.0.1        medicalsupplies2u.com        #add by cti-league.com
   127.0.0.1        medicatedequipments.com        #add by cti-league.com
@@ -831,181 +1605,491 @@
   127.0.0.1        medmaski-besplatno-vsem.ru        #add by cti-league.com
   127.0.0.1        medsurgicalmask.com        #add by cti-league.com
   127.0.0.1        mersrekdocuments.ir        #add by cti-league.com
+  127.0.0.1        miakhalifa.giize.com        #add by cti-league.com
+  127.0.0.1        michpol95.5v.pl        #add by cti-league.com
+  127.0.0.1        mijn.ing.nl.synchronisatie.info        #add by cti-league.com
+  127.0.0.1        mikeservers.eu        #add by cti-league.com
+  127.0.0.1        military-feather-xzzdtfiod.glitch.me        #add by cti-league.com
+  127.0.0.1        miwd9xpis.appspot.com        #add by cti-league.com
+  127.0.0.1        mixbook1.com        #add by cti-league.com
+  127.0.0.1        mj.gucac.com        #add by cti-league.com
+  127.0.0.1        mmsformatemessager.firebaseapp.com        #add by cti-league.com
+  127.0.0.1        mmspos01088.firebaseapp.com        #add by cti-league.com
+  127.0.0.1        mobile.lnstagram.com.toufikk.com        #add by cti-league.com
+  127.0.0.1        mobileacesso24horas.com        #add by cti-league.com
+  127.0.0.1        mobillesporhaberleri.blogspot.be        #add by cti-league.com
+  127.0.0.1        modalap.com        #add by cti-league.com
+  127.0.0.1        moduloitau.digital        #add by cti-league.com
+  127.0.0.1        moduloitauempresarial.com        #add by cti-league.com
+  127.0.0.1        mofzsiq.dermals.org        #add by cti-league.com
+  127.0.0.1        mojomob.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        monclerhomme.top        #add by cti-league.com
+  127.0.0.1        monssosecuremanage.ddsopsarps.com        #add by cti-league.com
   127.0.0.1        motivation.neighboring.site        #add by cti-league.com
   127.0.0.1        msdtcupdate.com        #add by cti-league.com
+  127.0.0.1        msenterpriseverifysecure.glitch.me        #add by cti-league.com
+  127.0.0.1        mt2.gucac.com        #add by cti-league.com
+  127.0.0.1        muetherewallet.com        #add by cti-league.com
   127.0.0.1        mukdamarketltd.com        #add by cti-league.com
+  127.0.0.1        mwebk19.moonfruit.com        #add by cti-league.com
+  127.0.0.1        my3-confirm-billing.com        #add by cti-league.com
+  127.0.0.1        my3-security.com        #add by cti-league.com
+  127.0.0.1        my3billcheck.com        #add by cti-league.com
+  127.0.0.1        my3billing-verify.com        #add by cti-league.com
   127.0.0.1        mybobo.mygamesonline.org        #add by cti-league.com
   127.0.0.1        mycoronapatch.com        #add by cti-league.com
   127.0.0.1        mykipay.com        #add by cti-league.com
+  127.0.0.1        myskintop.ga        #add by cti-league.com
+  127.0.0.1        mystifying-wozniak-81b9b6.netlify.com        #add by cti-league.com
+  127.0.0.1        n78668odszx.appspot.com        #add by cti-league.com
   127.0.0.1        n95coronavirusmaske.com        #add by cti-league.com
   127.0.0.1        nacerentiemposdelcoronavirus.com        #add by cti-league.com
   127.0.0.1        nanoiumens.com        #add by cti-league.com
+  127.0.0.1        natanpronta.imfast.io        #add by cti-league.com
   127.0.0.1        natufarma.net        #add by cti-league.com
+  127.0.0.1        naughty-minsky-0914b5.netlify.com        #add by cti-league.com
+  127.0.0.1        ndezhili59.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        needmoreupup.gq        #add by cti-league.com
+  127.0.0.1        neficalcu1980.blogspot.be        #add by cti-league.com
+  127.0.0.1        neficalcu1980.blogspot.com        #add by cti-league.com
   127.0.0.1        neftlix-covid19-promocion.com        #add by cti-league.com
+  127.0.0.1        nega-mape.web.app        #add by cti-league.com
+  127.0.0.1        nent-lote.web.app        #add by cti-league.com
   127.0.0.1        netcoronavirusu.ru        #add by cti-league.com
+  127.0.0.1        netfli2-log1.com        #add by cti-league.com
   127.0.0.1        netflix-coronavirus.com        #add by cti-league.com
+  127.0.0.1        netflix-usa.net        #add by cti-league.com
+  127.0.0.1        netflix.secure.update.graphicallyhub.com        #add by cti-league.com
   127.0.0.1        netflixcovid19s.com        #add by cti-league.com
+  127.0.0.1        netflixloginhelp.com        #add by cti-league.com
   127.0.0.1        new-coronavirusmask.com        #add by cti-league.com
   127.0.0.1        new.915yzt.cn        #add by cti-league.com
   127.0.0.1        newbot.ug        #add by cti-league.com
+  127.0.0.1        newgrupbokep.changeip.biz        #add by cti-league.com
+  127.0.0.1        newgrupsexjavanes.collect20.com        #add by cti-league.com
+  127.0.0.1        newshawsitesss.gotdns.org        #add by cti-league.com
   127.0.0.1        newskoronavirus.ru        #add by cti-league.com
+  127.0.0.1        newsy.info        #add by cti-league.com
   127.0.0.1        nexoservicesou.com        #add by cti-league.com
   127.0.0.1        nhpurumy.mireene.com        #add by cti-league.com
+  127.0.0.1        nia.psdzy.com        #add by cti-league.com
+  127.0.0.1        nikolpashinyanharcer3.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        njdo.nccprojects.org        #add by cti-league.com
+  127.0.0.1        nk3.8wix.com        #add by cti-league.com
+  127.0.0.1        nkforcesklep.pl        #add by cti-league.com
   127.0.0.1        nlcfoundation.org        #add by cti-league.com
   127.0.0.1        nocoronafor.me        #add by cti-league.com
   127.0.0.1        nocoronavirus.info        #add by cti-league.com
   127.0.0.1        noithatgoocchoav.com        #add by cti-league.com
+  127.0.0.1        nopelit-grup.000webhostapp.com        #add by cti-league.com
   127.0.0.1        normalityforcovid-19.com        #add by cti-league.com
   127.0.0.1        norulless.com        #add by cti-league.com
   127.0.0.1        notmsg.smvm.xyz        #add by cti-league.com
   127.0.0.1        novelcoronavirus.cc        #add by cti-league.com
   127.0.0.1        novelcoronavirusnews.xyz        #add by cti-league.com
+  127.0.0.1        ns2n.dwh.dalians.cn        #add by cti-league.com
+  127.0.0.1        nueddivinelea.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        nw5.7t6.dalianl.cn        #add by cti-league.com
   127.0.0.1        nyccovid19lawyer.com        #add by cti-league.com
   127.0.0.1        nyscovid19challenge.com        #add by cti-league.com
   127.0.0.1        o-coronavirus.ru        #add by cti-league.com
+  127.0.0.1        observant-fossil-chopper.glitch.me        #add by cti-league.com
   127.0.0.1        ohk-haiash.com        #add by cti-league.com
+  127.0.0.1        olivine-cheddar-geography.glitch.me        #add by cti-league.com
+  127.0.0.1        on-registerfb.webnode.com        #add by cti-league.com
+  127.0.0.1        onecalltechs.com        #add by cti-league.com
+  127.0.0.1        onedocsb.atwebpages.com        #add by cti-league.com
+  127.0.0.1        onedrive-live-com-about-en-us-signin.log1n-user.xyz        #add by cti-league.com
   127.0.0.1        onlinepreneur.id        #add by cti-league.com
+  127.0.0.1        onlinerambulanp0rn.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        onlineverificacion.ejemplo.me        #add by cti-league.com
   127.0.0.1        onthefx.com        #add by cti-league.com
+  127.0.0.1        onvid.lflink.com        #add by cti-league.com
+  127.0.0.1        opendoc1.homelinux.com        #add by cti-league.com
   127.0.0.1        orblog.mireene.com        #add by cti-league.com
+  127.0.0.1        orgn19e103mmbref97592.netlify.com        #add by cti-league.com
+  127.0.0.1        orlandoareavacations.orlandoareavacation.com        #add by cti-league.com
   127.0.0.1        otaplast.no        #add by cti-league.com
+  127.0.0.1        ououqiutian.com        #add by cti-league.com
+  127.0.0.1        outl00k.netlify.com        #add by cti-league.com
+  127.0.0.1        outlook.winmail01.cn        #add by cti-league.com
+  127.0.0.1        ow0espzoas.appspot.com        #add by cti-league.com
+  127.0.0.1        owaoutlook-webmailadmin.moonfruit.com        #add by cti-league.com
+  127.0.0.1        oyzsrmb.biogenicherb.com        #add by cti-league.com
+  127.0.0.1        pa-y-pa-l-vrfy-onlinne-acct-1098738293.000webhostapp.com        #add by cti-league.com
   127.0.0.1        pagamentodelordinenumero.online        #add by cti-league.com
+  127.0.0.1        page-business.fb-ad365u37e877u2t21.com        #add by cti-league.com
+  127.0.0.1        page-under-review-184.com        #add by cti-league.com
+  127.0.0.1        page.business-fb-item5342-ad8534.com        #add by cti-league.com
+  127.0.0.1        page.business-fb-item56732-ad76853.com        #add by cti-league.com
   127.0.0.1        page.notify-uscourts.online        #add by cti-league.com
   127.0.0.1        palzet1-bg.site        #add by cti-league.com
   127.0.0.1        palzet1.site        #add by cti-league.com
   127.0.0.1        pandemiyacoronavirus.ru        #add by cti-league.com
   127.0.0.1        parismomes.fr        #add by cti-league.com
+  127.0.0.1        particulier-secunotifi.u662583fam.ha004.t.justns.ru        #add by cti-league.com
+  127.0.0.1        parvpwodk.dermals.org        #add by cti-league.com
+  127.0.0.1        paxfulonlinepayment.com        #add by cti-league.com
+  127.0.0.1        paxfulviet.com        #add by cti-league.com
+  127.0.0.1        paypahelp-desk.info        #add by cti-league.com
+  127.0.0.1        paypahelpdesk.info        #add by cti-league.com
+  127.0.0.1        paypahelpidesk.info        #add by cti-league.com
+  127.0.0.1        paypahelppdesk.info        #add by cti-league.com
+  127.0.0.1        paypahelpsdesk.info        #add by cti-league.com
+  127.0.0.1        paypai-service.webcindario.com        #add by cti-league.com
+  127.0.0.1        paypai.secure-gb.com        #add by cti-league.com
+  127.0.0.1        paypai.user-security-ref053.com        #add by cti-league.com
+  127.0.0.1        paypal-echeckout.com        #add by cti-league.com
+  127.0.0.1        paypal-helps.blogspot.be        #add by cti-league.com
+  127.0.0.1        paypal-helps.blogspot.com        #add by cti-league.com
+  127.0.0.1        paypal-inc-help-redirection.blogspot.be        #add by cti-league.com
+  127.0.0.1        paypal-inc-help-redirection.blogspot.com        #add by cti-league.com
+  127.0.0.1        paypal-security-session.cf        #add by cti-league.com
+  127.0.0.1        paypal-services-redirection.blogspot.be        #add by cti-league.com
+  127.0.0.1        paypal-services-redirection.blogspot.com        #add by cti-league.com
+  127.0.0.1        paypal-services-suspended-unlcok.blogspot.be        #add by cti-league.com
+  127.0.0.1        paypal-services-suspended-unlcok.blogspot.com        #add by cti-league.com
+  127.0.0.1        paypal-support-help-uk.com        #add by cti-league.com
+  127.0.0.1        paypal-support-help.blogspot.be        #add by cti-league.com
+  127.0.0.1        paypal-support-help.blogspot.com        #add by cti-league.com
+  127.0.0.1        paypal-support-help.blogspot.com.cy        #add by cti-league.com
+  127.0.0.1        paypal-support-update-account.blogspot.be        #add by cti-league.com
+  127.0.0.1        paypal-support-update-account.blogspot.com        #add by cti-league.com
+  127.0.0.1        paypal-support.n4t.co        #add by cti-league.com
+  127.0.0.1        paypal-unlock-services.blogspot.be        #add by cti-league.com
+  127.0.0.1        paypal-unlocking-sys.blogspot.be        #add by cti-league.com
+  127.0.0.1        paypal-unlockservices.blogspot.com        #add by cti-league.com
+  127.0.0.1        paypal.co.uk.userfiukr4xegoa.settingsppup.com        #add by cti-league.com
   127.0.0.1        paypal.com-us.cgi-bin-webscr-cmd.login-submit-dispatch.q5g5qa4h5szgmsgjqhsg4a54hq45hhg1szg4a4aq1g25q4a12jh254h1e5q1.revspecial.ee        #add by cti-league.com
+  127.0.0.1        paypal.com.0.confirmation.account-security.7741d16fef9571be97716a958700fe4d7741d16fef9571be97716a958700f.3233.privado.info        #add by cti-league.com
   127.0.0.1        paypal.com.cgi-bin-webscr.cmd-login-submit.dispatch.6785d80a13c0dbe.f879b5c2a4f6b3d0b6.85d80a13c0dbd80a1c0db1f8.salcalifornia.com        #add by cti-league.com
   127.0.0.1        paypal.com.cgi-bin-webscr.cmd-loginsubmit.dispatch-5885d80a13c0db1f8e263663d3faee8d0b7e678a55b8964d.prehrana-tuli.si        #add by cti-league.com
+  127.0.0.1        paypal.net-drive.xyz        #add by cti-league.com
+  127.0.0.1        paypal.nextliferepair.com        #add by cti-league.com
+  127.0.0.1        paypal.notificetion.tk        #add by cti-league.com
+  127.0.0.1        paypal.p0q7.cc        #add by cti-league.com
+  127.0.0.1        paypal.q1l.cc        #add by cti-league.com
+  127.0.0.1        paypal0.uber.space        #add by cti-league.com
   127.0.0.1        paypaluk-coronavirussupport.com        #add by cti-league.com
+  127.0.0.1        paypaluk-limited.com        #add by cti-league.com
+  127.0.0.1        paypaonlineehelp.info        #add by cti-league.com
+  127.0.0.1        paypaonlineupdates.live        #add by cti-league.com
+  127.0.0.1        paypaonlineuse.info        #add by cti-league.com
+  127.0.0.1        paypauseonline.info        #add by cti-league.com
+  127.0.0.1        payponlinehelp.info        #add by cti-league.com
+  127.0.0.1        pd6b.67dtt.dalians.cn        #add by cti-league.com
   127.0.0.1        peacelist.ignorelist.com        #add by cti-league.com
+  127.0.0.1        pemblokiran566.webnode.com        #add by cti-league.com
   127.0.0.1        perelouis.fr        #add by cti-league.com
   127.0.0.1        perfectdating.us        #add by cti-league.com
+  127.0.0.1        perfilesrepor.000webhostapp.com        #add by cti-league.com
   127.0.0.1        pescaturismocorona.it        #add by cti-league.com
+  127.0.0.1        pesok.dp.ua        #add by cti-league.com
   127.0.0.1        petronnascanada.com        #add by cti-league.com
+  127.0.0.1        peturreja1971.blogspot.be        #add by cti-league.com
+  127.0.0.1        peturreja1971.blogspot.com        #add by cti-league.com
+  127.0.0.1        phantom-guide-96m0qrndaf.glitch.me        #add by cti-league.com
   127.0.0.1        phantom101.duckdns.org        #add by cti-league.com
   127.0.0.1        pharmacymedicpledge.com        #add by cti-league.com
   127.0.0.1        pharmadrugdirect.com        #add by cti-league.com
   127.0.0.1        pharmglobalmeds.com        #add by cti-league.com
   127.0.0.1        phirayapanjaphandon.com        #add by cti-league.com
+  127.0.0.1        photcontest2020.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        photo21124.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        phpinstafollowers.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        planet-tungsten-yew.glitch.me        #add by cti-league.com
   127.0.0.1        play.google.com.jijiutlek.club        #add by cti-league.com
   127.0.0.1        play.google.com.leserdefera.club        #add by cti-league.com
   127.0.0.1        playbig-fr.com        #add by cti-league.com
   127.0.0.1        plusurgicalmask.com        #add by cti-league.com
+  127.0.0.1        pocrtalpersssocnas-bencochiile-cl.drdssf.com        #add by cti-league.com
+  127.0.0.1        polesportsfrance-marseille.fr        #add by cti-league.com
+  127.0.0.1        polikoole.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        polite-imminent-edge.glitch.me        #add by cti-league.com
+  127.0.0.1        pomgpana.com        #add by cti-league.com
   127.0.0.1        pomoshcovid19.ru        #add by cti-league.com
+  127.0.0.1        portalbncochile-cl.xyz        #add by cti-league.com
+  127.0.0.1        posmanager.ecobank.group        #add by cti-league.com
   127.0.0.1        posqit.net        #add by cti-league.com
+  127.0.0.1        poste-it-up.blogspot.be        #add by cti-league.com
+  127.0.0.1        postepay-evolution.com        #add by cti-league.com
+  127.0.0.1        postssantiagoortiz.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        pramahikvision-mail.net        #add by cti-league.com
   127.0.0.1        prathameshbroadband.net        #add by cti-league.com
   127.0.0.1        prevenciondelcoronavirus.com        #add by cti-league.com
   127.0.0.1        preventcoronavirus19.com        #add by cti-league.com
   127.0.0.1        preventfromcorona.com        #add by cti-league.com
   127.0.0.1        primecaviar.com        #add by cti-league.com
   127.0.0.1        privatemedicinessupplies.com        #add by cti-league.com
+  127.0.0.1        processfile.netlify.com        #add by cti-league.com
+  127.0.0.1        profileidview.com        #add by cti-league.com
+  127.0.0.1        profileupdaternew.com        #add by cti-league.com
   127.0.0.1        promo-covid19-neftlix.ml        #add by cti-league.com
+  127.0.0.1        promocao-6meses.com        #add by cti-league.com
+  127.0.0.1        promocaodos50itau.com        #add by cti-league.com
+  127.0.0.1        protejseg.com.br        #add by cti-league.com
+  127.0.0.1        przechwycone-zdjecia-fotki.pusiaweb.com        #add by cti-league.com
+  127.0.0.1        przechwyconefotki24.pusiaweb.com        #add by cti-league.com
+  127.0.0.1        ptm.vteexcx.com        #add by cti-league.com
+  127.0.0.1        punctual-davit.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        pv03kxa.vteexcx.com        #add by cti-league.com
+  127.0.0.1        pwbhebj.biogenicherb.com        #add by cti-league.com
+  127.0.0.1        q234weasz.appspot.com        #add by cti-league.com
+  127.0.0.1        qgfu.psdzy.com        #add by cti-league.com
+  127.0.0.1        qian-lai.com        #add by cti-league.com
+  127.0.0.1        qjuzz.weblium.site        #add by cti-league.com
+  127.0.0.1        qn-qx.snprobbx.pbz.r.de.a2ip.ru        #add by cti-league.com
   127.0.0.1        quarantainezone-homebanking.online        #add by cti-league.com
   127.0.0.1        quarantine-digipass.website        #add by cti-league.com
   127.0.0.1        quarantine.cc        #add by cti-league.com
   127.0.0.1        quehacerencuarentenaporcoronavirus.com        #add by cti-league.com
   127.0.0.1        quicktestcoronavirus.com        #add by cti-league.com
+  127.0.0.1        quilt-emmental-c26mmr7y7p.glitch.me        #add by cti-league.com
+  127.0.0.1        r344qwasz.appspot.com        #add by cti-league.com
+  127.0.0.1        r3fewdsarg3few.rf.gd        #add by cti-league.com
   127.0.0.1        rafimedicalfacemask.com        #add by cti-league.com
+  127.0.0.1        rakuten.co.jp.22e10522c1e306c8266ab3843a053caa593167e7.info        #add by cti-league.com
+  127.0.0.1        ralunwewo1979.blogspot.be        #add by cti-league.com
+  127.0.0.1        raveenzag.000webhostapp.com        #add by cti-league.com
   127.0.0.1        recoverrryasitalycovid-19.xyz        #add by cti-league.com
   127.0.0.1        redditdating.us        #add by cti-league.com
+  127.0.0.1        registrodedatosenlineaweb01.com        #add by cti-league.com
   127.0.0.1        rekenjura.com        #add by cti-league.com
+  127.0.0.1        relianceonl.com        #add by cti-league.com
+  127.0.0.1        remboursement-swisscom.ouba.com        #add by cti-league.com
+  127.0.0.1        resgatemobilebb.com        #add by cti-league.com
+  127.0.0.1        resolvepaymentsolution.com        #add by cti-league.com
+  127.0.0.1        riccardopanico.altervista.org        #add by cti-league.com
   127.0.0.1        riddoffcovid19.xyz        #add by cti-league.com
   127.0.0.1        rightblinds.net        #add by cti-league.com
   127.0.0.1        ristracoronagraphs.online        #add by cti-league.com
   127.0.0.1        rmagent.xyz        #add by cti-league.com
+  127.0.0.1        rneroshare.tk        #add by cti-league.com
   127.0.0.1        rogers-covid19.com        #add by cti-league.com
+  127.0.0.1        rosccaperlio1984.blogspot.be        #add by cti-league.com
   127.0.0.1        rosemarie-urquico.com        #add by cti-league.com
+  127.0.0.1        roxedqz.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        royalesc.ru        #add by cti-league.com
+  127.0.0.1        royalfinancebank.com        #add by cti-league.com
   127.0.0.1        royalmedicpharma.com        #add by cti-league.com
+  127.0.0.1        rrfg.sw81k.cn        #add by cti-league.com
+  127.0.0.1        rsvr.gucac.com        #add by cti-league.com
+  127.0.0.1        rtaylor.sa7o.com        #add by cti-league.com
   127.0.0.1        ru.mst.dns-cloud.net        #add by cti-league.com
   127.0.0.1        runescape-covid19.info        #add by cti-league.com
   127.0.0.1        russia-coronavirus.ru        #add by cti-league.com
+  127.0.0.1        ry54sdfagsa.appspot.com        #add by cti-league.com
+  127.0.0.1        sacitau.000webhostapp.com        #add by cti-league.com
   127.0.0.1        safecovid.com        #add by cti-league.com
   127.0.0.1        safefromcovid-19.com        #add by cti-league.com
+  127.0.0.1        safety.fecebook-support-inbox.my.id        #add by cti-league.com
   127.0.0.1        safpalideal.com        #add by cti-league.com
   127.0.0.1        saltcitymktg.com        #add by cti-league.com
   127.0.0.1        samedaycoronavirustesting.com        #add by cti-league.com
   127.0.0.1        santisukkhlongchringmask.com        #add by cti-league.com
+  127.0.0.1        satnt-fra.netlify.com        #add by cti-league.com
   127.0.0.1        sbacoronavirusloanassistance.com        #add by cti-league.com
+  127.0.0.1        schulthess-groupe.com        #add by cti-league.com
   127.0.0.1        schweizer.com.au        #add by cti-league.com
+  127.0.0.1        sci.paypal.com-customerservice.gxologin-outsidecy-cgi-bin.superbackpack.com        #add by cti-league.com
+  127.0.0.1        scotiabank-online-verification.com        #add by cti-league.com
+  127.0.0.1        se-pn.snprobbx.pbz.r.de.a2ip.ru        #add by cti-league.com
   127.0.0.1        seasons444.ddns.net        #add by cti-league.com
+  127.0.0.1        sebitarsek.cloudaccess.host        #add by cti-league.com
+  127.0.0.1        secura-ex.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        secure-2com-login-s33-in-onv2screen-go-msg-020288200.netlify.com        #add by cti-league.com
   127.0.0.1        secure-account-covid2020.com        #add by cti-league.com
   127.0.0.1        secure-accovid.com        #add by cti-league.com
+  127.0.0.1        secure-runescape.xyz        #add by cti-league.com
+  127.0.0.1        secure.bankofamerica.com-login-sign-in-signonv2screen.go.suzukihaiphong.com.vn        #add by cti-league.com
+  127.0.0.1        secure.runescape.com-au.ru        #add by cti-league.com
+  127.0.0.1        secure.runescape.com-ro.ru        #add by cti-league.com
+  127.0.0.1        secure01-chaseonline-comt53.duckdns.org        #add by cti-league.com
   127.0.0.1        securitycovid19.online        #add by cti-league.com
   127.0.0.1        securitycovid19info.com        #add by cti-league.com
+  127.0.0.1        sensornumero1.000webhostapp.com        #add by cti-league.com
   127.0.0.1        sercovid.fun        #add by cti-league.com
+  127.0.0.1        server.main.login.support.hotwills.com.au        #add by cti-league.com
+  127.0.0.1        service-paypal.com.chikimasa.com.ar        #add by cti-league.com
+  127.0.0.1        servicecustomerstripe1.com        #add by cti-league.com
+  127.0.0.1        services.runescape.com-au.ru        #add by cti-league.com
+  127.0.0.1        services.runescape.com-hk.top        #add by cti-league.com
+  127.0.0.1        services.runescape.com-ro.ru        #add by cti-league.com
   127.0.0.1        servicos.covid19eu.pt        #add by cti-league.com
   127.0.0.1        sevgikresi.net        #add by cti-league.com
+  127.0.0.1        sexxgroupswa.joins5.com        #add by cti-league.com
+  127.0.0.1        sexxjoingrup.itsaol.com        #add by cti-league.com
   127.0.0.1        sgmedia.mireene.com        #add by cti-league.com
   127.0.0.1        shahbazewatan.com        #add by cti-league.com
+  127.0.0.1        sharp-bartik-bf03ef.netlify.com        #add by cti-league.com
+  127.0.0.1        shipment.free-h.net        #add by cti-league.com
   127.0.0.1        show1.website        #add by cti-league.com
+  127.0.0.1        sicdam.biogenicherb.com        #add by cti-league.com
   127.0.0.1        sicurezza-covid19.com        #add by cti-league.com
   127.0.0.1        signin.coinbase.com.secure5.pw        #add by cti-league.com
+  127.0.0.1        signin.eday.co.uk.ws.eda.yisapi.dll.signinusi.ngsslpu.serid.copartnerid2siteid.jrbiqxnoppc54f2w1utgbtiyowrb4vk.howtosellcryptocurrency.com        #add by cti-league.com
+  127.0.0.1        simulacaixa.com.br        #add by cti-league.com
+  127.0.0.1        sinpasaqua.site        #add by cti-league.com
+  127.0.0.1        sistemaempresas.com        #add by cti-league.com
   127.0.0.1        site-inspection.com        #add by cti-league.com
+  127.0.0.1        sitest1.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        smartdocument-265507.appspot.com        #add by cti-league.com
+  127.0.0.1        smsreka300.netlify.com        #add by cti-league.com
+  127.0.0.1        snapchat.accounts.crimsonmart.com        #add by cti-league.com
+  127.0.0.1        sneakersytanie.pl        #add by cti-league.com
+  127.0.0.1        snowlike-analyst.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        sohinteg.com        #add by cti-league.com
   127.0.0.1        southhillspros.com        #add by cti-league.com
+  127.0.0.1        sp588226.sitebeat.site        #add by cti-league.com
+  127.0.0.1        spidersolutions.ro        #add by cti-league.com
   127.0.0.1        splscopepharma.com        #add by cti-league.com
+  127.0.0.1        spotmartordinv.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        sqauemsaps.com        #add by cti-league.com
+  127.0.0.1        squarebase1.com        #add by cti-league.com
+  127.0.0.1        squarecbv4.com        #add by cti-league.com
+  127.0.0.1        squarescop2.com        #add by cti-league.com
   127.0.0.1        sso.united.un.org.adfs.ls.oauth2.client-id-s1o2ff-10002-0ff1.com        #add by cti-league.com
+  127.0.0.1        staffandfaculty.my-free.website        #add by cti-league.com
+  127.0.0.1        starasiaindia.com        #add by cti-league.com
   127.0.0.1        starilionpla.website        #add by cti-league.com
+  127.0.0.1        stayhomestayhealthy.000webhostapp.com        #add by cti-league.com
   127.0.0.1        staysafecovid19.xyz        #add by cti-league.com
+  127.0.0.1        stdo.live        #add by cti-league.com
+  127.0.0.1        steamcommuunnity.ru.com        #add by cti-league.com
+  127.0.0.1        steves-towing.com        #add by cti-league.com
   127.0.0.1        stop-coronavirus-foundation.org        #add by cti-league.com
   127.0.0.1        stop-coronavirus.info        #add by cti-league.com
   127.0.0.1        stopcorona-virus.com        #add by cti-league.com
+  127.0.0.1        storm.kllk.tk        #add by cti-league.com
   127.0.0.1        stornocovid-19.pw        #add by cti-league.com
   127.0.0.1        sts.ifrc.org.adfs.ls.oauth2.client-id-s1o2ff-10002-0ff1.com        #add by cti-league.com
+  127.0.0.1        studymojo.000webhostapp.com        #add by cti-league.com
   127.0.0.1        subvention-gouv-ca.org        #add by cti-league.com
+  127.0.0.1        succulentanatolianshepherddog.htmlpasta.com        #add by cti-league.com
+  127.0.0.1        sulendode.kissr.com        #add by cti-league.com
+  127.0.0.1        sumeyemozlen.blogcu.com        #add by cti-league.com
+  127.0.0.1        sumptuous-sky-geranium.glitch.me        #add by cti-league.com
+  127.0.0.1        supportmail.webservis.ru        #add by cti-league.com
   127.0.0.1        surgical-facemasks.com        #add by cti-league.com
   127.0.0.1        surgicalface-mask.com        #add by cti-league.com
   127.0.0.1        surgicalfacemaskstore.com        #add by cti-league.com
   127.0.0.1        surveuvcoronavirus.us        #add by cti-league.com
   127.0.0.1        survivecoronavirus.org        #add by cti-league.com
   127.0.0.1        sylvitexspzoo.com        #add by cti-league.com
+  127.0.0.1        sysphoparkcon1970.blogspot.be        #add by cti-league.com
   127.0.0.1        t.zer2.com        #add by cti-league.com
+  127.0.0.1        ta-behesht.ir        #add by cti-league.com
   127.0.0.1        tajudeenfacemask.com        #add by cti-league.com
+  127.0.0.1        tattered-tough-warrior.glitch.me        #add by cti-league.com
   127.0.0.1        tealex.it        #add by cti-league.com
+  127.0.0.1        technicalvishal0326.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        telephonefixemessagerie.web.app        #add by cti-league.com
+  127.0.0.1        telusmobilecarrier.com        #add by cti-league.com
+  127.0.0.1        telusmobilityprovider.com        #add by cti-league.com
   127.0.0.1        tempinfo.96.lt        #add by cti-league.com
   127.0.0.1        terminixcovid19.com        #add by cti-league.com
+  127.0.0.1        terms-worksmobile-comuserveriification6r70.000webhostapp.com        #add by cti-league.com
   127.0.0.1        testathomecoronavirus.com        #add by cti-league.com
   127.0.0.1        testcoronavirus.shop        #add by cti-league.com
   127.0.0.1        testcovid-19.cl        #add by cti-league.com
   127.0.0.1        testcovid.online        #add by cti-league.com
+  127.0.0.1        tested-aspiring-zone.glitch.me        #add by cti-league.com
   127.0.0.1        testing0.site        #add by cti-league.com
+  127.0.0.1        teub.s5bu.dalianl.cn        #add by cti-league.com
   127.0.0.1        thaiglobalshippingcompany.com        #add by cti-league.com
   127.0.0.1        thankscorona.com        #add by cti-league.com
   127.0.0.1        thankscoronavirus.com        #add by cti-league.com
+  127.0.0.1        thebestwaytorecord.com        #add by cti-league.com
   127.0.0.1        thecoronaviruskiller.com        #add by cti-league.com
   127.0.0.1        thecoronaviruslive.info        #add by cti-league.com
   127.0.0.1        theglobalcoronavirus.com        #add by cti-league.com
+  127.0.0.1        theifengingmen1986.blogspot.be        #add by cti-league.com
   127.0.0.1        thejbdcbnmtrhhr.com        #add by cti-league.com
   127.0.0.1        thetestkitcoronavirus.com        #add by cti-league.com
+  127.0.0.1        thirsty-one.netlify.com        #add by cti-league.com
+  127.0.0.1        threesupportcenter.com        #add by cti-league.com
+  127.0.0.1        threesupportteam.com        #add by cti-league.com
   127.0.0.1        thumbeks.com        #add by cti-league.com
   127.0.0.1        tidy-saiki-6718.deci.jp        #add by cti-league.com
+  127.0.0.1        tims-webb.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        tioflaninat1974.blogspot.com        #add by cti-league.com
+  127.0.0.1        tioreboubo1987.blogspot.be        #add by cti-league.com
+  127.0.0.1        tj7si.weblium.site        #add by cti-league.com
   127.0.0.1        tkmeddisposable.com        #add by cti-league.com
+  127.0.0.1        tldrbox.top        #add by cti-league.com
+  127.0.0.1        tleo9.fxy.dalianl.cn        #add by cti-league.com
+  127.0.0.1        tmobiletickethelp.com        #add by cti-league.com
+  127.0.0.1        totosite.club        #add by cti-league.com
   127.0.0.1        toyswithpizzazz.com.au        #add by cti-league.com
+  127.0.0.1        track.deliveryun.com        #add by cti-league.com
+  127.0.0.1        track.free-h.net        #add by cti-league.com
   127.0.0.1        trackcorona.net        #add by cti-league.com
+  127.0.0.1        tradeforamericacom.shaxiareturn.top        #add by cti-league.com
   127.0.0.1        transportesmartina.cl        #add by cti-league.com
   127.0.0.1        trenv.coronavideo3.tk        #add by cti-league.com
+  127.0.0.1        triofleetw.com        #add by cti-league.com
   127.0.0.1        truelifemedicare.com        #add by cti-league.com
   127.0.0.1        trustedcovid19.info        #add by cti-league.com
+  127.0.0.1        tryt5fdxsa.appspot.com        #add by cti-league.com
+  127.0.0.1        tt.8wix.com        #add by cti-league.com
+  127.0.0.1        tugs.k86hc.cn        #add by cti-league.com
+  127.0.0.1        tutorialbyytkings.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        tutupubj176t.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        ty364tsdsaf.appspot.com        #add by cti-league.com
+  127.0.0.1        ty45eadszxz.appspot.com        #add by cti-league.com
+  127.0.0.1        tyu87hfxz.appspot.com        #add by cti-league.com
+  127.0.0.1        tyy756dfxas.appspot.com        #add by cti-league.com
+  127.0.0.1        tzpn.goruli.com        #add by cti-league.com
+  127.0.0.1        u76tfgssazx.appspot.com        #add by cti-league.com
   127.0.0.1        ubercontraocovid-19.com.br        #add by cti-league.com
   127.0.0.1        ubercoronavirusprotection.com        #add by cti-league.com
   127.0.0.1        uberdoctorcoronavirus.com        #add by cti-league.com
   127.0.0.1        ubermasks.com        #add by cti-league.com
+  127.0.0.1        ubrrrtaxi.com        #add by cti-league.com
   127.0.0.1        uelcontracoronavirus.com        #add by cti-league.com
+  127.0.0.1        ug9g.vteexcx.com        #add by cti-league.com
   127.0.0.1        uk-covid-19-relieve.com        #add by cti-league.com
+  127.0.0.1        uk.hmrc.returns-form.com        #add by cti-league.com
   127.0.0.1        ukcrisis-alerts.com        #add by cti-league.com
   127.0.0.1        ultimatedentalreport.com        #add by cti-league.com
+  127.0.0.1        unawed-mast.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        undangan-grup-japanes.000webhostapp.com        #add by cti-league.com
   127.0.0.1        unitedwaycovid19fund.com        #add by cti-league.com
+  127.0.0.1        unlqlio.com        #add by cti-league.com
   127.0.0.1        unmasklaws.com        #add by cti-league.com
   127.0.0.1        update-covid19.com        #add by cti-league.com
+  127.0.0.1        upgrade.itauweb.com        #add by cti-league.com
   127.0.0.1        urbanandruraldesign.com.au        #add by cti-league.com
   127.0.0.1        url4510.cdchealth.org        #add by cti-league.com
+  127.0.0.1        us-coronavirus-cases-state-by-state.afyfr.com        #add by cti-league.com
+  127.0.0.1        us-realtors.info        #add by cti-league.com
   127.0.0.1        uscoronafacts.com        #add by cti-league.com
+  127.0.0.1        user7897398.appspot.com        #add by cti-league.com
+  127.0.0.1        userqb01esdndesn.appspot.com        #add by cti-league.com
   127.0.0.1        ux6p.strangled.net        #add by cti-league.com
+  127.0.0.1        uzmanfotoat.com        #add by cti-league.com
   127.0.0.1        uzoclouds.eu        #add by cti-league.com
   127.0.0.1        vaccincorona.com        #add by cti-league.com
   127.0.0.1        vaccine-coronavirus.com        #add by cti-league.com
+  127.0.0.1        vake.dogestocks.com        #add by cti-league.com
+  127.0.0.1        validatemaillogin.weebly.com        #add by cti-league.com
   127.0.0.1        vastyhealthcarefoundation.com        #add by cti-league.com
+  127.0.0.1        vauspkzeb.biogenicherb.com        #add by cti-league.com
+  127.0.0.1        vb9saoqwz.appspot.com        #add by cti-league.com
+  127.0.0.1        vcom.vipcentr.ru        #add by cti-league.com
+  127.0.0.1        vcxcdrt54dfs.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        vdsh567tsdz.appspot.com        #add by cti-league.com
+  127.0.0.1        vehvklokg.appspot.com        #add by cti-league.com
+  127.0.0.1        vercosite1975.blogspot.com        #add by cti-league.com
+  127.0.0.1        verifauthenacesscloud.com        #add by cti-league.com
+  127.0.0.1        verificandolo.zz.com.ve        #add by cti-league.com
   127.0.0.1        verificationaccoundetailsforcorona.iniciaapp.com        #add by cti-league.com
+  127.0.0.1        verifikasi-pemblokiran-id0.webnode.com        #add by cti-league.com
+  127.0.0.1        verify.my-pp-account.com        #add by cti-league.com
+  127.0.0.1        verify.my-ppaccount.com        #add by cti-league.com
+  127.0.0.1        verify.my-pplogin.com        #add by cti-league.com
+  127.0.0.1        verify.myeebillingaccount.com        #add by cti-league.com
+  127.0.0.1        verify.mypp-login.com        #add by cti-league.com
   127.0.0.1        verizoncovid-09.com        #add by cti-league.com
   127.0.0.1        verizoncovid-11.com        #add by cti-league.com
   127.0.0.1        verizoncovid-12.com        #add by cti-league.com
@@ -1014,16 +2098,57 @@
   127.0.0.1        verizoncovid23.com        #add by cti-league.com
   127.0.0.1        viabcp-covid19.xyz        #add by cti-league.com
   127.0.0.1        viagracorona.com        #add by cti-league.com
+  127.0.0.1        viatraniver1972.blogspot.com        #add by cti-league.com
+  127.0.0.1        vidbokepviralgrub.xxxsdz.tk        #add by cti-league.com
+  127.0.0.1        videograciosodefortnite.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        videomuygraciosodefortnite.000webhostapp.com        #add by cti-league.com
   127.0.0.1        vietnam.zing.photos        #add by cti-league.com
   127.0.0.1        villedefrancecovid19.online        #add by cti-league.com
+  127.0.0.1        vip37799.com        #add by cti-league.com
   127.0.0.1        viphostindustries.info        #add by cti-league.com
+  127.0.0.1        viralbali.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        viralll2020.000webhostapp.com        #add by cti-league.com
   127.0.0.1        viralmask.qapplefashion.com        #add by cti-league.com
+  127.0.0.1        viro3030.000webhostapp.com        #add by cti-league.com
   127.0.0.1        virys-covid19.ru        #add by cti-league.com
+  127.0.0.1        visa.com-che-4266988677.wikyzone.com        #add by cti-league.com
+  127.0.0.1        visa.com-che-4983212039.wikyzone.com        #add by cti-league.com
+  127.0.0.1        visa.com-vmore-1692065599.imagelinetech.com        #add by cti-league.com
+  127.0.0.1        visa.com-vmore-4636967280.imagelinetech.com        #add by cti-league.com
+  127.0.0.1        visa.com-vmore-5309718911.imagelinetech.com        #add by cti-league.com
+  127.0.0.1        visa.com-vmore-6376467209.imagelinetech.com        #add by cti-league.com
+  127.0.0.1        visa.com-vmore-7149313398.imagelinetech.com        #add by cti-league.com
   127.0.0.1        vitlescaux.com        #add by cti-league.com
+  127.0.0.1        vk-feed-wall-191107256.ru        #add by cti-league.com
+  127.0.0.1        vk-vzlom.youhack.info        #add by cti-league.com
+  127.0.0.1        vk-walle.ru        #add by cti-league.com
+  127.0.0.1        vkaktivations23.bos.ru        #add by cti-league.com
+  127.0.0.1        vki.vipcentr.ru        #add by cti-league.com
+  127.0.0.1        vkinndex.webservis.ru        #add by cti-league.com
+  127.0.0.1        vkvzlomid.viptop.ru        #add by cti-league.com
   127.0.0.1        vnext.mireene.com        #add by cti-league.com
+  127.0.0.1        vns7838.com        #add by cti-league.com
+  127.0.0.1        vostbaddleschoi1973.blogspot.com        #add by cti-league.com
+  127.0.0.1        vostbaddleschoi1973.blogspot.gr        #add by cti-league.com
+  127.0.0.1        votresecuripass.is-great.org        #add by cti-league.com
+  127.0.0.1        voucher-unipin-2020.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        vsdz21wasz.appspot.com        #add by cti-league.com
+  127.0.0.1        w-login12.jkub.com        #add by cti-league.com
+  127.0.0.1        w9.sms-alerta.digital        #add by cti-league.com
+  127.0.0.1        wachtsgroups.frezze.ml        #add by cti-league.com
+  127.0.0.1        wagrub651.wa-sex.com        #add by cti-league.com
+  127.0.0.1        wagrupbkp.wa-xxx.com        #add by cti-league.com
+  127.0.0.1        wagruphot.wa-18.com        #add by cti-league.com
+  127.0.0.1        wahot.2020-2021.net        #add by cti-league.com
+  127.0.0.1        wajoinxzxc72618.000webhostapp.com        #add by cti-league.com
   127.0.0.1        warcorona.com        #add by cti-league.com
+  127.0.0.1        wardace.ru        #add by cti-league.com
+  127.0.0.1        wargaming.bos.ru        #add by cti-league.com
   127.0.0.1        waroncorona.com        #add by cti-league.com
   127.0.0.1        watchcorona.com        #add by cti-league.com
+  127.0.0.1        web-whatsappjoin.itsaol.com        #add by cti-league.com
+  127.0.0.1        web1.customer-acc-support.com        #add by cti-league.com
+  127.0.0.1        webcontest1.000webhostapp.com        #add by cti-league.com
   127.0.0.1        webdisk.asapcoronavirus.com        #add by cti-league.com
   127.0.0.1        webdisk.bestcoronavirusprotect.tk        #add by cti-league.com
   127.0.0.1        webdisk.coronabrightside.com        #add by cti-league.com
@@ -1062,29 +2187,77 @@
   127.0.0.1        webmail.optusnet.com.au.optusreward.pw        #add by cti-league.com
   127.0.0.1        webmail.securitycovid19info.com        #add by cti-league.com
   127.0.0.1        webmail.signin.coinbase.com.secure5.pw        #add by cti-league.com
+  127.0.0.1        webmailsecurityunithelpdesk.moonfruit.com        #add by cti-league.com
+  127.0.0.1        wendhahmabis1983.blogspot.be        #add by cti-league.com
   127.0.0.1        westcoasttelemetry.com        #add by cti-league.com
   127.0.0.1        whatcoronavirus.com        #add by cti-league.com
+  127.0.0.1        whatsapgrup18wo.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        whatsapjoingrup2020.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        whatsapp-29.hzbek.tk        #add by cti-league.com
+  127.0.0.1        whatsapp-gabung22.v-25.com        #add by cti-league.com
+  127.0.0.1        whatsapp-group-join.zzux.com        #add by cti-league.com
+  127.0.0.1        whatsapp-group.claim.my.id        #add by cti-league.com
+  127.0.0.1        whatsapp-group18.4dq.com        #add by cti-league.com
+  127.0.0.1        whatsapp-groupinvite.zzux.com        #add by cti-league.com
+  127.0.0.1        whatsapp-grubsx1.zzux.com        #add by cti-league.com
+  127.0.0.1        whatsapp-grupbokep.v-25.com        #add by cti-league.com
+  127.0.0.1        whatsapp-invitegrup.v-25.com        #add by cti-league.com
+  127.0.0.1        whatsapp-videos.4dq.com        #add by cti-league.com
+  127.0.0.1        whatsapp18.joins5.com        #add by cti-league.com
+  127.0.0.1        whatsappbokep.joins5.com        #add by cti-league.com
+  127.0.0.1        whatsappbokepgrup18.collect20.com        #add by cti-league.com
+  127.0.0.1        whatsappbokepviral18plus.mrbonus.com        #add by cti-league.com
+  127.0.0.1        whatsappgroupchatjoin8382.squirly.info        #add by cti-league.com
+  127.0.0.1        whatsappgrup-invite.otzo.com        #add by cti-league.com
+  127.0.0.1        whatsapphotgrup.wa-18.com        #add by cti-league.com
+  127.0.0.1        whatsappjapan.jkub.com        #add by cti-league.com
+  127.0.0.1        whatsappjoin1.hol50.com        #add by cti-league.com
+  127.0.0.1        whatsapplendir.4pu.com        #add by cti-league.com
+  127.0.0.1        whatsappnewchat.giize.com        #add by cti-league.com
+  127.0.0.1        whatsappp-invite19.qhigh.com        #add by cti-league.com
+  127.0.0.1        whatsapps-chats-groups0.wikaba.com        #add by cti-league.com
+  127.0.0.1        whatsapps-chats-groups1.wikaba.com        #add by cti-league.com
+  127.0.0.1        whatsapps-chats-groups9.wikaba.com        #add by cti-league.com
+  127.0.0.1        whatsapps-group.zzux.com        #add by cti-league.com
+  127.0.0.1        whatsapps-porn-grubbs18.zzux.com        #add by cti-league.com
+  127.0.0.1        whatsappsexjoin.4dq.com        #add by cti-league.com
   127.0.0.1        whm.coronavirusrelief.net        #add by cti-league.com
   127.0.0.1        who-coronavirus.com        #add by cti-league.com
   127.0.0.1        wholesalebeadsltd.com        #add by cti-league.com
+  127.0.0.1        whtsaztjaiauztaywnekaiauztztqhqkaozoxndbdjd.000webhostapp.com        #add by cti-league.com
   127.0.0.1        wind.windmilldrops.com        #add by cti-league.com
   127.0.0.1        wintexgroup-cn.com        #add by cti-league.com
+  127.0.0.1        wl.psdzy.com        #add by cti-league.com
+  127.0.0.1        wmi.4i7i.com        #add by cti-league.com
   127.0.0.1        worldcoronavirus.net        #add by cti-league.com
+  127.0.0.1        wp.6645478.top        #add by cti-league.com
+  127.0.0.1        wroq.tanglescanner.com        #add by cti-league.com
   127.0.0.1        wsmgmbh.net        #add by cti-league.com
+  127.0.0.1        wuarface.ru        #add by cti-league.com
   127.0.0.1        wusameetings.tk        #add by cti-league.com
+  127.0.0.1        ww1.suportebb.me        #add by cti-league.com
   127.0.0.1        ww25.googlecoronavieus.com        #add by cti-league.com
   127.0.0.1        ww25.googlecoronaviras.com        #add by cti-league.com
   127.0.0.1        ww25.googlecoronaviru.com        #add by cti-league.com
+  127.0.0.1        ww33.informeapp.me        #add by cti-league.com
+  127.0.0.1        wwbb.appfsms.com        #add by cti-league.com
+  127.0.0.1        wwc.acceso.enstado.chile.stdo.live        #add by cti-league.com
   127.0.0.1        www-bcpzonasegurabeta.viabcp-covid19.xyz        #add by cti-league.com
+  127.0.0.1        www-bcpzonasegurabeta.viabcp.buradametal.com        #add by cti-league.com
   127.0.0.1        www.19covid-gouv12.com        #add by cti-league.com
+  127.0.0.1        www.2itau-promocao.com        #add by cti-league.com
   127.0.0.1        www.accounts.google.com.secure-2.pw        #add by cti-league.com
   127.0.0.1        www.accounts.google.com.secure005.pw        #add by cti-league.com
   127.0.0.1        www.adairguthriecountycovid.org        #add by cti-league.com
+  127.0.0.1        www.amazon.co.jp.001sucai.com        #add by cti-league.com
+  127.0.0.1        www.amazon.co.jp.dmcxw.cn        #add by cti-league.com
   127.0.0.1        www.anticoronaproducts.com        #add by cti-league.com
   127.0.0.1        www.anticoronavirus-masks.com        #add by cti-league.com
   127.0.0.1        www.apple.id.update-page.signin-service-support-cgi-bin-login-webscr.cmd-security-directory.locale.loginx-1e008e44a05ba05423b.oreidobocadillo.com        #add by cti-league.com
   127.0.0.1        www.appple.com-id.service.manager.service-update-full-access-now-secure.fast-manager-id.798465798465794.sonexzircon.com        #add by cti-league.com
   127.0.0.1        www.ashgroveaccountant.com.au        #add by cti-league.com
+  127.0.0.1        www.badges-instagramservices.subhash.edu.pk        #add by cti-league.com
+  127.0.0.1        www.banco.colpatria.com.cobanca.alserviciorat-tray.com        #add by cti-league.com
   127.0.0.1        www.bcorona.com        #add by cti-league.com
   127.0.0.1        www.beatingcoronavirus.com        #add by cti-league.com
   127.0.0.1        www.bell-covid19.com        #add by cti-league.com
@@ -1096,8 +2269,18 @@
   127.0.0.1        www.business-facebook-covid19.com        #add by cti-league.com
   127.0.0.1        www.byebyecoronavirus.com        #add by cti-league.com
   127.0.0.1        www.cajasyempaquesdecolombia.com        #add by cti-league.com
+  127.0.0.1        www.cgi.ebay1.de.pskschools.com        #add by cti-league.com
   127.0.0.1        www.chase-covid19s.com        #add by cti-league.com
   127.0.0.1        www.chasecovid19t.com        #add by cti-league.com
+  127.0.0.1        www.chat-whatsapp-bokep.itsaol.com        #add by cti-league.com
+  127.0.0.1        www.chat-whatsapp-groub.jetos.com        #add by cti-league.com
+  127.0.0.1        www.chat-whatsapp-grub.mynetav.com        #add by cti-league.com
+  127.0.0.1        www.chat-whatsapp.freetcp.com        #add by cti-league.com
+  127.0.0.1        www.chat-whatsapp21.4dq.com        #add by cti-league.com
+  127.0.0.1        www.chatwhatsex-bokep.zzux.com        #add by cti-league.com
+  127.0.0.1        www.chatwhtshapp28.nect.my03.com        #add by cti-league.com
+  127.0.0.1        www.chatwhtshapp2828.ixt.ocry.com        #add by cti-league.com
+  127.0.0.1        www.civso0qas.appspot.com        #add by cti-league.com
   127.0.0.1        www.contracovid19.josefhinach.com        #add by cti-league.com
   127.0.0.1        www.corona-explained.com        #add by cti-league.com
   127.0.0.1        www.corona-masr3.com        #add by cti-league.com
@@ -1147,24 +2330,57 @@
   127.0.0.1        www.covid19situations.com        #add by cti-league.com
   127.0.0.1        www.covid19video.offroadpcservice.com        #add by cti-league.com
   127.0.0.1        www.covidbetaalpas.nl        #add by cti-league.com
+  127.0.0.1        www.docusignemail1com1login1dropbox9com64bae2a51a5b3dropbox7com.mybabydeck.com        #add by cti-league.com
+  127.0.0.1        www.docusignsecure1com1login1dropbox9com64bae2a51a5b3dropbox7com.mybabydeck.com        #add by cti-league.com
   127.0.0.1        www.dogogiaphat.com        #add by cti-league.com
   127.0.0.1        www.drfvh.coronavirusaware.xyz        #add by cti-league.com
+  127.0.0.1        www.e-document.frsteel.co.za        #add by cti-league.com
   127.0.0.1        www.ebook.newscoronavirus.info        #add by cti-league.com
+  127.0.0.1        www.eebilling.com        #add by cti-league.com
   127.0.0.1        www.eussdvm.us        #add by cti-league.com
   127.0.0.1        www.examencoronavirus.cl        #add by cti-league.com
+  127.0.0.1        www.facebook.com-marketplace-93839.mediaryte.co        #add by cti-league.com
+  127.0.0.1        www.facebook.nuebeyywo.ga        #add by cti-league.com
+  127.0.0.1        www.facebook4k.messenger-likes.club        #add by cti-league.com
   127.0.0.1        www.fightcorona-virus.com        #add by cti-league.com
   127.0.0.1        www.fuckthecovid19.com        #add by cti-league.com
   127.0.0.1        www.golfcoronado.com        #add by cti-league.com
   127.0.0.1        www.govaj.com        #add by cti-league.com
+  127.0.0.1        www.group-whatsapps.xxuz.com        #add by cti-league.com
+  127.0.0.1        www.group-whatsapss.zzux.com        #add by cti-league.com
+  127.0.0.1        www.grup-join-whatsapp.vizvaz.com        #add by cti-league.com
+  127.0.0.1        www.grup-whatsapp-invite.zzux.com        #add by cti-league.com
+  127.0.0.1        www.grup-whatsapp.69.ocry.com        #add by cti-league.com
+  127.0.0.1        www.grupsexoldamerica.collect20.com        #add by cti-league.com
   127.0.0.1        www.hb-bonusclaim.com        #add by cti-league.com
   127.0.0.1        www.hmrc-cov19.payment.estrodev.com        #add by cti-league.com
   127.0.0.1        www.hostalroquetes.com        #add by cti-league.com
   127.0.0.1        www.hotelcoronaferrea.uchi1078.7artisan.net        #add by cti-league.com
+  127.0.0.1        www.info-center.club        #add by cti-league.com
   127.0.0.1        www.interacservcovid-19.com        #add by cti-league.com
+  127.0.0.1        www.j965rtpdfxoz.appspot.com        #add by cti-league.com
+  127.0.0.1        www.join-chat-whatsap.ok.ygto.com        #add by cti-league.com
+  127.0.0.1        www.join-group23.collect20.com        #add by cti-league.com
+  127.0.0.1        www.join-group96.collect20.com        #add by cti-league.com
+  127.0.0.1        www.join-whatsappgroup.25u.com        #add by cti-league.com
+  127.0.0.1        www.joinchatgrupwhatsapp30.mrbonus.com        #add by cti-league.com
+  127.0.0.1        www.joinchatgrupwhatsapp91.mrbonus.com        #add by cti-league.com
+  127.0.0.1        www.joinchatgrupwhatsapp92.mrbonus.com        #add by cti-league.com
+  127.0.0.1        www.joinchatwhatsapp07.mrbonus.com        #add by cti-league.com
+  127.0.0.1        www.joinchatwhatsapp17.mrbonus.com        #add by cti-league.com
+  127.0.0.1        www.joinchatwhatsapp20.mrbonus.com        #add by cti-league.com
+  127.0.0.1        www.joinchatwhatsapp53.mrbonus.com        #add by cti-league.com
+  127.0.0.1        www.joinchatwhatsapp6.mrbonus.com        #add by cti-league.com
+  127.0.0.1        www.joinchatwhatsapp77.mrbonus.com        #add by cti-league.com
+  127.0.0.1        www.joingruppwhatsapp.4dq.com        #add by cti-league.com
+  127.0.0.1        www.klikuntukbergabung.wa-18.com        #add by cti-league.com
+  127.0.0.1        www.login.live.com.medbp.com        #add by cti-league.com
   127.0.0.1        www.login.microsoftonline.com.common.co.client-id-s1o2ff-10002-0ff1.com        #add by cti-league.com
   127.0.0.1        www.login.microsoftonline.com.common.hi.client-id-s1o2ff-10002-0ff1.com        #add by cti-league.com
   127.0.0.1        www.login.unicef.org.adfs.ls.oauth2.client-id-s1o2ff-10002-0ff1.com        #add by cti-league.com
   127.0.0.1        www.lovetravelcorona.com        #add by cti-league.com
+  127.0.0.1        www.ltseo.se        #add by cti-league.com
+  127.0.0.1        www.mahogany-broadleaf-troodon.glitch.me        #add by cti-league.com
   127.0.0.1        www.mandapsoflondon.co.uk        #add by cti-league.com
   127.0.0.1        www.mon-compte-impots.gouv-remboursement.u549553bew.ha004.t.justns.ru        #add by cti-league.com
   127.0.0.1        www.montgomeryfoodconsulting.com        #add by cti-league.com
@@ -1172,10 +2388,14 @@
   127.0.0.1        www.netflixcovid19s.com        #add by cti-league.com
   127.0.0.1        www.notcoronavirusnews.com        #add by cti-league.com
   127.0.0.1        www.novelcoronavirustestingkit.com        #add by cti-league.com
+  127.0.0.1        www.payinfosicurezzapal.it        #add by cti-league.com
+  127.0.0.1        www.paypal-epl-communication.com        #add by cti-league.com
   127.0.0.1        www.paypal.com--l--l--l--l--l--l--l--l--verification--l--l--l--l--l--l.americanbottle.com        #add by cti-league.com
   127.0.0.1        www.paypal.com-us.cgi-bin-webscr-cmd.login-submit-dispatch.q5g5qa4h5szgmsgjqhsg4a54hq45hhg1szg4a4aq1g25q4a12jh254h1e5q1.revspecial.ee        #add by cti-league.com
   127.0.0.1        www.paypal.com.cgi-bin-webscr.cmd-loginsubmit.dispatch-5885d80a13c0db1f8e263663d3faee8d0b7e678a55b8964d.prehrana-tuli.si        #add by cti-league.com
   127.0.0.1        www.paypal.com.login.cgi-bin.williamsfarm.net        #add by cti-league.com
+  127.0.0.1        www.paypal.com.sogood.club        #add by cti-league.com
+  127.0.0.1        www.paypal.notificetion.tk        #add by cti-league.com
   127.0.0.1        www.planejaragro.com.br        #add by cti-league.com
   127.0.0.1        www.playbig-fr.com        #add by cti-league.com
   127.0.0.1        www.promo-covid19-neftlix.ml        #add by cti-league.com
@@ -1186,29 +2406,87 @@
   127.0.0.1        www.secure-accovid.com        #add by cti-league.com
   127.0.0.1        www.securitycovid19.online        #add by cti-league.com
   127.0.0.1        www.securitycovid19info.com        #add by cti-league.com
+  127.0.0.1        www.service-paypal.com.chikimasa.com.ar        #add by cti-league.com
+  127.0.0.1        www.sexxjoin.jkub.com        #add by cti-league.com
+  127.0.0.1        www.sexxxwhatsapp.4dq.com        #add by cti-league.com
   127.0.0.1        www.shriharimachinery.com        #add by cti-league.com
   127.0.0.1        www.sicurezza-covid19.com        #add by cti-league.com
   127.0.0.1        www.signin.coinbase.com.secure5.pw        #add by cti-league.com
   127.0.0.1        www.sso.united.un.org.adfs.ls.oauth2.client-id-s1o2ff-10002-0ff1.com        #add by cti-league.com
   127.0.0.1        www.stop-coronavirus-foundation.org        #add by cti-league.com
+  127.0.0.1        www.store.vps.exoret.com        #add by cti-league.com
   127.0.0.1        www.sts.ifrc.org.adfs.ls.oauth2.client-id-s1o2ff-10002-0ff1.com        #add by cti-league.com
   127.0.0.1        www.tempinfo.96.lt        #add by cti-league.com
   127.0.0.1        www.thecoronaviruslive.info        #add by cti-league.com
   127.0.0.1        www.ubercontraocovid-19.com.br        #add by cti-league.com
   127.0.0.1        www.uk-covid-19-relieve.com        #add by cti-league.com
   127.0.0.1        www.ukcrisis-alerts.com        #add by cti-league.com
+  127.0.0.1        www.unlqlio.com        #add by cti-league.com
   127.0.0.1        www.verificationaccoundetailsforcorona.iniciaapp.com        #add by cti-league.com
   127.0.0.1        www.verizoncovid-11.com        #add by cti-league.com
+  127.0.0.1        www.w-login12.jkub.com        #add by cti-league.com
+  127.0.0.1        www.whatsapgrup.0n.4pu.com        #add by cti-league.com
+  127.0.0.1        www.whatsapp-group-join.zzux.com        #add by cti-league.com
+  127.0.0.1        www.whatsapp-group.claim.my.id        #add by cti-league.com
+  127.0.0.1        www.whatsapp-group18.4dq.com        #add by cti-league.com
+  127.0.0.1        www.whatsapp-groupinvite.zzux.com        #add by cti-league.com
+  127.0.0.1        www.whatsapp-grubsx1.zzux.com        #add by cti-league.com
+  127.0.0.1        www.whatsappbokepviral18plus.mrbonus.com        #add by cti-league.com
+  127.0.0.1        www.whatsappgrup-invite.otzo.com        #add by cti-league.com
+  127.0.0.1        www.whatsappjapan.jkub.com        #add by cti-league.com
+  127.0.0.1        www.whatsapps-group.zzux.com        #add by cti-league.com
+  127.0.0.1        www.xn--btchang-t8ag78w.net        #add by cti-league.com
+  127.0.0.1        www.xnxxgrupjavanes9.collect20.com        #add by cti-league.com
+  127.0.0.1        www.yi9pzxosadz.appspot.com        #add by cti-league.com
+  127.0.0.1        www.yucair.videosfb.xyz        #add by cti-league.com
+  127.0.0.1        www365365187.com        #add by cti-league.com
+  127.0.0.1        wwwamazom.klyuesao.com        #add by cti-league.com
   127.0.0.1        wwwgooglecoronavirus.com        #add by cti-league.com
   127.0.0.1        wy.adyboh.com        #add by cti-league.com
+  127.0.0.1        xfinity.bimlarge.com        #add by cti-league.com
+  127.0.0.1        xfinity.com-sign-in-secure-cpessfile-appmail.2bpnmedia.co.th        #add by cti-league.com
+  127.0.0.1        xn----8sba2bimdokl0l.xn--p1ai        #add by cti-league.com
+  127.0.0.1        xn--bakofamerica-3t1f.la        #add by cti-league.com
+  127.0.0.1        xn--bnkofamerca-87a302a.ws        #add by cti-league.com
+  127.0.0.1        xn--bnkofmeric-j9c424eea.ph        #add by cti-league.com
   127.0.0.1        xn--coronavirs-codiv19-u6b.club        #add by cti-league.com
   127.0.0.1        xn--covid-19opplring-5ob.com        #add by cti-league.com
   127.0.0.1        xn--covid19-gncelsalgnvakalar-nwc35l.com        #add by cti-league.com
+  127.0.0.1        xn--www-xodus-e4a.io        #add by cti-league.com
+  127.0.0.1        xt.boxerleads.dog        #add by cti-league.com
+  127.0.0.1        xxiaooabl.dermals.org        #add by cti-league.com
+  127.0.0.1        xyloid-foot.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        xzcdfsq2rez.appspot.com        #add by cti-league.com
+  127.0.0.1        xzg5662esd.appspot.com        #add by cti-league.com
+  127.0.0.1        y.nvshengjie.cn        #add by cti-league.com
+  127.0.0.1        y.psdzy.com        #add by cti-league.com
+  127.0.0.1        y8ersxzpas.appspot.com        #add by cti-league.com
+  127.0.0.1        yaboo.homelinux.net        #add by cti-league.com
+  127.0.0.1        yhp.vteexcx.com        #add by cti-league.com
+  127.0.0.1        yi9pzxosadz.appspot.com        #add by cti-league.com
+  127.0.0.1        yinh.conservativemovement.com.au        #add by cti-league.com
+  127.0.0.1        yiw9posasz.appspot.com        #add by cti-league.com
   127.0.0.1        yourcoronavirustest.com        #add by cti-league.com
+  127.0.0.1        yt54dsxaz.appspot.com        #add by cti-league.com
+  127.0.0.1        ytu47sdza.appspot.com        #add by cti-league.com
+  127.0.0.1        ytudf432as.appspot.com        #add by cti-league.com
+  127.0.0.1        yu56tdfcxc.appspot.com        #add by cti-league.com
+  127.0.0.1        yu7xcvdsc.appspot.com        #add by cti-league.com
+  127.0.0.1        yuhfdwesaa.appspot.com        #add by cti-league.com
   127.0.0.1        zagnapol-pl.com        #add by cti-league.com
+  127.0.0.1        zalupatochkacom.000webhostapp.com        #add by cti-league.com
+  127.0.0.1        zdjecie-facebook-zdj3425jeio.dkonto.pl        #add by cti-league.com
   127.0.0.1        zemaproductsource.com        #add by cti-league.com
   127.0.0.1        zendesk-covid.com        #add by cti-league.com
   127.0.0.1        zendesk-covid19.com        #add by cti-league.com
   127.0.0.1        zendesk-covid19.net        #add by cti-league.com
   127.0.0.1        zendesk-covid19.org        #add by cti-league.com
   127.0.0.1        zeroolstarnow.com        #add by cti-league.com
+  127.0.0.1        zf-zl.snprobbx.pbz.r.de.a2ip.ru        #add by cti-league.com
+  127.0.0.1        zietrehelponline.live        #add by cti-league.com
+  127.0.0.1        ziraatbankasionlineislemleriniz.me        #add by cti-league.com
+  127.0.0.1        znmyoj.dermals.org        #add by cti-league.com
+  127.0.0.1        znz.psdzy.com        #add by cti-league.com
+  127.0.0.1        zonadeseguridaregistroenlineaweb1.com        #add by cti-league.com
+  127.0.0.1        zuurqeaon.handipants.com        #add by cti-league.com
+  127.0.0.1        zxcde4hdgfs.000webhostapp.com        #add by cti-league.com
